@@ -3,33 +3,40 @@
   journal:  submitted
   url: 
   display: 
-  year: 2022
+  year: 
 
 - title: "Underappreciated emission spikes and impacts on air quality during heatwaves"
   authors: 	<b>Liu, S.</b>, <b>Shu, L.</b>, <b>Zhu, L. *</b>, Song, Y., <b>Sun, W.</b>, <b>Chen, Y.</b>, <b>Wang, D.</b>, <b>Pu, D.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
   journal:  submitted
   url: 
   display: 
-  year: 2022
-
-- title: "Improving Ozone Simulations in Asia via Multisource Data Assimilation: Results from an Observing System Simulation Experiment with GEMS Geostationary Satellite Observations"
-  authors: 	<b>Shu, L.</b>, <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
-  journal:  Atmospheric Chemistry and Physics Discussions
-  url: https://acp.copernicus.org/preprints/acp-2022-744
-  display: Link
-  year: 2022
+  year: 
 
 - title: "Global Formaldehyde Products from the Ozone Mapping and Profiler Suite (OMPS) Nadir Mappers on Suomi NPP and NOAA-20"
   authors: Nowlan, C. R., González Abad, G., Kwon, H.-A., Ayazpour, Z., Chan Miller, C., Chance, K., Chong, H., Liu, X., O'Sullivan, E., Wang, H., <b>Zhu, L.</b>, De Smedt, I., Jaross, G., Seftor, C., and Sun, K.
   journal:  Earth and Space Science
   url: 
   display: Link
-  year: 2022
+  year: 2023
+
+- title: "Characterization of Errors in Satellite-based HCHO/NO2 Tropospheric Column Ratios with Respect to Chemistry, Column to PBL Translation, Spatial Representation, and Retrieval Uncertainties"
+  authors:  Souri, A. H., Johnson, M. S., Wolfe, G. M., Crawford, J. H., Fried, A., Wisthaler, A., Brune, W. H., Blake, D. R., Weinheimer, A. J., Verhoelst, T., Compernolle, S., Pinardi, G., Vigouroux, C., Langerock, B., Choi, S., Lamsal, L., <b>Zhu, L.</b>, <b>Sun, S.</b>, Cohen, R. C., Min, K.-E., Cho, C., Philip, S., Liu, X., and Chance, K.
+  journal:  Atmospheric Chemistry and Physics 
+  url: https://doi.org/10.5194/acp-23-1963-2023
+  display: Link
+  year: 2023
 
 - title: "Seasonal variation of driving factors of ambient PM2.5 oxidative potential in Shenzhen, China"
   authors: Xing, C., Wang, Y., Yang, X., Zeng, Y., Zhai, J., Cai, B., Zhang, A., Fu, T.-M., <b>Zhu, L.</b>, Li, Y., Wang, X., and Zhang, Y.
   journal:  Science of the Total Environment
   url: https://doi.org/10.1016/j.scitotenv.2022.160771
+  display: Link
+  year: 2023
+
+- title: "Improving Ozone Simulations in Asia via Multisource Data Assimilation: Results from an Observing System Simulation Experiment with GEMS Geostationary Satellite Observations"
+  authors: 	<b>Shu, L.</b>, <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
+  journal:  Atmospheric Chemistry and Physics Discussions
+  url: https://acp.copernicus.org/preprints/acp-2022-744
   display: Link
   year: 2022
 
@@ -51,13 +58,6 @@
   authors: <b>Pu, D.</b>, <b>Zhu, L. *</b>, De Smedt, I., <b>Li, X.</b>, <b>Sun, W.</b>, <b>Wang, D.</b>, <b>Liu, S.</b>, <b>Li, J.</b>, <b>Shu, L.</b>, <b>Chen, Y.</b>, <b>Sun, S.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Xu, P., Yang, X., and Fu, T.-M.
   journal:  Geophysical Research Letters
   url: https://doi.org/10.1029/2022GL099470
-  display: Link
-  year: 2022
-
-- title: "Characterization of Errors in Satellite-based HCHO/NO2 Tropospheric Column Ratios with Respect to Chemistry, Column to PBL Translation, Spatial Representation, and Retrieval Uncertainties"
-  authors:  Souri, A. H., Johnson, M. S., Wolfe, G. M., Crawford, J. H., Fried, A., Wisthaler, A., Brune, W. H., Blake, D. R., Weinheimer, A. J., Verhoelst, T., Compernolle, S., Pinardi, G., Vigouroux, C., Langerock, B., Choi, S., Lamsal, L., <b>Zhu, L.</b>, <b>Sun, S.</b>, Cohen, R. C., Min, K.-E., Cho, C., Philip, S., Liu, X., and Chance, K.
-  journal:  Atmospheric Chemistry and Physics Discussions
-  url: https://acp.copernicus.org/preprints/acp-2022-410
   display: Link
   year: 2022
 
