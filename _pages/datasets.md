@@ -26,7 +26,7 @@ permalink: /datasets/
 
 #### TROPOMI tropospheric BrO columns
 
-<b>Description:</b> Monthly tropospheric bromine monoxide (BrO) columns from TROPOMI 
+<b>Description:</b> Monthly tropospheric bromine monoxide (BrO) columns from TROPOMI   
 <b>Download:</b> [Netcdf files](https://doi.org/10.7910/DVN/REQ8GW)   
 <b>Reference:</b> [Chen et al. 2023](https://www.acmrsg.org/datasets/)  
 
