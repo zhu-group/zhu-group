@@ -33,6 +33,13 @@
   display: 
   year: 2023
 
+- title: "Improving Ozone Simulations in Asia via Multisource Data Assimilation: Results from an Observing System Simulation Experiment with GEMS Geostationary Satellite Observations"
+  authors: 	<b>Shu, L.</b>, <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
+  journal:  Atmospheric Chemistry and Physics
+  url: https://doi.org/10.5194/acp-23-3731-2023
+  display: Link
+  year: 2023
+
 - title: "Global Formaldehyde Products from the Ozone Mapping and Profiler Suite (OMPS) Nadir Mappers on Suomi NPP and NOAA-20"
   authors: Nowlan, C. R., González Abad, G., Kwon, H.-A., Ayazpour, Z., Chan Miller, C., Chance, K., Chong, H., Liu, X., O'Sullivan, E., Wang, H., <b>Zhu, L.</b>, De Smedt, I., Jaross, G., Seftor, C., and Sun, K.
   journal:  Earth and Space Science
@@ -53,13 +60,6 @@
   url: https://doi.org/10.1016/j.scitotenv.2022.160771
   display: Link
   year: 2023
-
-- title: "Improving Ozone Simulations in Asia via Multisource Data Assimilation: Results from an Observing System Simulation Experiment with GEMS Geostationary Satellite Observations"
-  authors: 	<b>Shu, L.</b>, <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
-  journal:  Atmospheric Chemistry and Physics Discussions
-  url: https://acp.copernicus.org/preprints/acp-2022-744
-  display: Link
-  year: 2022
 
 - title: "Direct observation of the transitional stage of mixing-state-related absorption enhancement for atmospheric black carbon"
   authors: Zhai, J., Yang, X., Li, L., Ye, X., Chen, J., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., and Tao, S. 
