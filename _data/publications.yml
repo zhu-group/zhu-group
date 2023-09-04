@@ -27,28 +27,35 @@
   year: 2023
 
 - title: "Global observations of tropospheric bromine monoxide (BrO) columns from TROPOMI"
-  authors: 	<b>Chen, Y.</b>, <b>Liu, S.</b>, <b>Zhu, L. *</b>, Seo S.,  Richter, A., <b>Li, X.</b>, Ding, A., <b>Sun, W.</b>, <b>Shu, L.</b>, Wang, X., Valks, P., Hendrick, F., Koenig, T. K., Volkamer, R., <b>Bai, B.</b>, <b>Wang, D.</b>, <b>Pu, D.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, Yang, X., and Fu, T.-M.
+  authors: <b>Chen, Y.</b>, <b>Liu, S.</b>, <b>Zhu, L. *</b>, Seo S.,  Richter, A., <b>Li, X.</b>, Ding, A., <b>Sun, W.</b>, <b>Shu, L.</b>, Wang, X., Valks, P., Hendrick, F., Koenig, T. K., Volkamer, R., <b>Bai, B.</b>, <b>Wang, D.</b>, <b>Pu, D.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, Yang, X., and Fu, T.-M.
   journal:  submitted
   url: 
   display: 
   year: 2023
 
 - title: "Validating formaldehyde products from four satellites (OMI, OMPS-NPP, OMPS-N20, and TROPOMI) with FIREX-AQ and WE-CAN aircraft observations over the United States during fire seasons"
-  authors: 	<b>Sun, S.</b>, <b>Zhu, L. *</b>, <b>Liu, S.</b>, <b>Shu, L.</b>, González Abad, G., Nowlan, C., Ayazpour, Z., De Smedt, I., <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Sun, W.</b>, <b>Bai, B.</b>, <b>Wang, D.</b>, <b>Li, X.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, Hu, L., Permar, W., Richter, D., Fried, A., Hanisco, T. F., Wolfe, G. M., Liao, J., St. Clair, J. M., Yang, X., and Fu, T.-M.
+  authors: <b>Sun, S.</b>, <b>Zhu, L. *</b>, <b>Liu, S.</b>, <b>Shu, L.</b>, González Abad, G., Nowlan, C., Ayazpour, Z., De Smedt, I., <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Sun, W.</b>, <b>Bai, B.</b>, <b>Wang, D.</b>, <b>Li, X.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, Hu, L., Permar, W., Richter, D., Fried, A., Hanisco, T. F., Wolfe, G. M., Liao, J., St. Clair, J. M., Yang, X., and Fu, T.-M.
   journal:  submitted
   url: 
   display: 
   year: 2023
 
 - title: "Underappreciated emission spikes and impacts on air quality during heatwaves"
-  authors: 	<b>Liu, S.</b>, <b>Shu, L.</b>, <b>Zhu, L. *</b>, Song, Y., <b>Sun, W.</b>, <b>Chen, Y.</b>, <b>Wang, D.</b>, <b>Pu, D.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
+  authors: <b>Liu, S.</b>, <b>Shu, L.</b>, <b>Zhu, L. *</b>, Song, Y., <b>Sun, W.</b>, <b>Chen, Y.</b>, <b>Wang, D.</b>, <b>Pu, D.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
   journal:  submitted
   url: 
   display: 
   year: 2023
 
+- title: "Impact of Ship Emissions on Air Quality in the Greater Bay Area in China under the Latest Global Marine Fuel Regulation"
+  authors: Zhai, J., Yu, G., Zhang, J., Shi, S., Yuan, Y., Jiang, S., Xing, C., Cai, B., Zeng, Y., Wang, Y., Zhang, A., Zhang, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., Tao, S., Li, M., Zhang, Y., Yang, X.
+  journal:  Environmental Science & Technology
+  url: https://doi.org/10.1021/acs.est.3c03950
+  display: Link
+  year: 2023
+
 - title: "Improving Ozone Simulations in Asia via Multisource Data Assimilation: Results from an Observing System Simulation Experiment with GEMS Geostationary Satellite Observations"
-  authors: 	<b>Shu, L.</b>, <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
+  authors: <b>Shu, L.</b>, <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
   journal:  Atmospheric Chemistry and Physics
   url: https://doi.org/10.5194/acp-23-3731-2023
   display: Link
@@ -57,7 +64,7 @@
 - title: "Global Formaldehyde Products from the Ozone Mapping and Profiler Suite (OMPS) Nadir Mappers on Suomi NPP and NOAA-20"
   authors: Nowlan, C. R., González Abad, G., Kwon, H.-A., Ayazpour, Z., Chan Miller, C., Chance, K., Chong, H., Liu, X., O'Sullivan, E., Wang, H., <b>Zhu, L.</b>, De Smedt, I., Jaross, G., Seftor, C., and Sun, K.
   journal:  Earth and Space Science
-  url: 
+  url: https://doi.org/10.1029/2022EA002643
   display: Link
   year: 2023
 
