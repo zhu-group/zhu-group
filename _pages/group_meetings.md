@@ -10,7 +10,7 @@ permalink: /group_meetings/
 
 Group meettings are held every other week.   
 
-The normal time/place is M. 1900 in CoE North 901.  
+The normal time/place is 1900 in CoE North 901.  
 
 <b>Schedule is subject to change, please check frequently. </b>
 
