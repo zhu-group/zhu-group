@@ -102,6 +102,19 @@
   education5:
   statement:
 
+- name: "Zhuoxian Yan | 闫卓贤"
+  photo: Zhuoxian_Yan.jpg
+  group_member: 1
+  info: Master Student (2023.09–)
+  email: 12232215@mail.sustech.edu.cn
+  number_educ: 2
+  education1: 2022-2023, MS, SUSTech, Department of Marine Science and Engineering
+  education2: 2018-2022, BS, Xi'an University of Science and Technology
+  education3: 
+  education4:
+  education5:
+  statement:
+
 - name: "Peng Zhang | 张鹏"
   photo: Peng_Zhang.jpg
   group_member: 1
