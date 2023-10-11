@@ -115,6 +115,19 @@
   education5:
   statement:
 
+- name: "Jiaming Zhang | 张嘉明"
+  photo: Jiaming_Zhang.jpg
+  group_member: 1
+  info: Master Student (2024.07–)
+  email: 13537814493@163.com
+  number_educ: 1
+  education1: 2020-2024, BS, China University of Mining & Technology, Beijing
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+
 - name: "Peng Zhang | 张鹏"
   photo: Peng_Zhang.jpg
   group_member: 1
