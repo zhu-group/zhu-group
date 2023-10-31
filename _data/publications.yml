@@ -48,7 +48,7 @@
   year: 2023
 
 - title: "Iron and Steel Industry Emissions: A Global Analysis of Trends and Drivers"
-  authors: Zhang, J., Shen, H., Chen, Y., Meng, J., Li, J., He, J., Guo, P., Dai, R., Zhang, Y., Xu, R., Wang, J., Zheng, S., Lei, T., Shen, G., Wang, C., Ye, J., Zhu, L., Zhe Sun, H., Fu, T.-M., Yang, X., Guan, D., and Tao, S.
+  authors: Zhang, J., Shen, H., Chen, Y., Meng, J., Li, J., He, J., Guo, P., Dai, R., Zhang, Y., Xu, R., Wang, J., Zheng, S., Lei, T., Shen, G., Wang, C., Ye, J., <b>Zhu, L.</b>, Zhe Sun, H., Fu, T.-M., Yang, X., Guan, D., and Tao, S.
   journal:  Environmental Science & Technology
   url: https://doi.org/10.1021/acs.est.3c05474
   display: Link
