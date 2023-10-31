@@ -47,8 +47,22 @@
   display: 
   year: 2023
 
+- title: "Iron and Steel Industry Emissions: A Global Analysis of Trends and Drivers"
+  authors: Zhang, J., Shen, H., Chen, Y., Meng, J., Li, J., He, J., Guo, P., Dai, R., Zhang, Y., Xu, R., Wang, J., Zheng, S., Lei, T., Shen, G., Wang, C., Ye, J., Zhu, L., Zhe Sun, H., Fu, T.-M., Yang, X., Guan, D., and Tao, S.
+  journal:  Environmental Science & Technology
+  url: https://doi.org/10.1021/acs.est.3c05474
+  display: Link
+  year: 2023
+
+- title: "Impacts of Ship Emissions on Air Quality in Southern China: Opportunistic Insights from the Abrupt Emission Changes in Early 2020"
+  authors: Feng, X., Ma, Y., Lin, H., Fu, T.-M., Zhang, Y., Wang, X., Zhang, A., Yuan, Y., Han, Z., Mao, J., <b>Wang, D.</b>, <b>Zhu, L.</b>, Wu, Y., Li, Y., and Yang, X.
+  journal:  Environmental Science & Technology
+  url: https://doi.org/10.1021/acs.est.3c04155
+  display: Link
+  year: 2023
+
 - title: "Impact of Ship Emissions on Air Quality in the Greater Bay Area in China under the Latest Global Marine Fuel Regulation"
-  authors: Zhai, J., Yu, G., Zhang, J., Shi, S., Yuan, Y., Jiang, S., Xing, C., Cai, B., Zeng, Y., Wang, Y., Zhang, A., Zhang, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., Tao, S., Li, M., Zhang, Y., Yang, X.
+  authors: Zhai, J., Yu, G., Zhang, J., Shi, S., Yuan, Y., Jiang, S., Xing, C., Cai, B., Zeng, Y., Wang, Y., Zhang, A., Zhang, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., Tao, S., Li, M., Zhang, Y., and Yang, X.
   journal:  Environmental Science & Technology
   url: https://doi.org/10.1021/acs.est.3c03950
   display: Link
