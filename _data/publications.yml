@@ -12,13 +12,6 @@
   display: 
   year: 2023
 
-- title: "Observing network effect of shipping emissions from space: a natural experiment in the world's busiest port"
-  authors: <b>Liu, S.</b>, <b>Li, X.</b>, <b>Li, J.</b>, <b>Shu, L.</b>,  Fu, T.-M.,  Yang, X., and <b>Zhu, L. *</b>
-  journal:  submitted
-  url: 
-  display: 
-  year: 2023
-
 - title: "Satellite NO2 retrieval complicated by aerosol composition over global urban agglomerations: seasonal variations and long-term trends (2001-2018)"
   authors: <b>Liu, S.</b>, <b>Zhu, L. *</b>, Valks, P., Curci, G., <b>Chen, Y.</b>, <b>Shu, L.</b>, <b>Sun, S.</b>, <b>Pu, D.</b>, <b>Li, X.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, Yang, X., and Fu, T.-M. 
   journal:  submitted
@@ -45,6 +38,13 @@
   journal:  submitted
   url: 
   display: 
+  year: 2023
+
+- title: "Observing network effect of shipping emissions from space: a natural experiment in the world's busiest port"
+  authors: <b>Liu, S.</b>, <b>Li, X.</b>, <b>Li, J.</b>, <b>Shu, L.</b>,  Fu, T.-M.,  Yang, X., and <b>Zhu, L. *</b>
+  journal:  PNAS Nexus 
+  url: https://doi.org/10.1093/pnasnexus/pgad391
+  display: Link
   year: 2023
 
 - title: "Iron and Steel Industry Emissions: A Global Analysis of Trends and Drivers"
