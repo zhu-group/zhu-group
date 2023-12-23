@@ -12,13 +12,6 @@
   display: 
   year: 2023
 
-- title: "Observing downwind structures of urban HCHO plumes from space: Implications to non-methane volatile organic compound emissions"
-  authors: <b>Zuo, X.</b>, <b>Sun, W.</b>, De Smedt, I., <b>Li, X.</b>, <b>Liu, S.</b>, <b>Pu, D.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Fu, W.</b>, <b>Zhang, P.</b>, <b>Li, Y.</b>, Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b> 
-  journal:  submitted
-  url: 
-  display: 
-  year: 2023
-
 - title: "Satellite NO2 retrieval complicated by aerosol composition over global urban agglomerations: seasonal variations and long-term trends (2001-2018)"
   authors: <b>Liu, S.</b>, <b>Zhu, L. *</b>, Valks, P., Curci, G., <b>Chen, Y.</b>, <b>Shu, L.</b>, <b>Sun, S.</b>, <b>Pu, D.</b>, <b>Li, X.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, Yang, X., and Fu, T.-M. 
   journal:  submitted
@@ -38,6 +31,13 @@
   journal:  submitted
   url: 
   display: 
+  year: 2023
+
+- title: "Observing downwind structures of urban HCHO plumes from space: Implications to non-methane volatile organic compound emissions"
+  authors: <b>Zuo, X.</b>, <b>Sun, W.</b>, De Smedt, I., <b>Li, X.</b>, <b>Liu, S.</b>, <b>Pu, D.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Fu, W.</b>, <b>Zhang, P.</b>, <b>Li, Y.</b>, Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b> 
+  journal:  Geophysical Research Letters
+  url: https://doi.org/10.1029/2023GL106062
+  display: Link
   year: 2023
 
 - title: "Global observations of tropospheric bromine monoxide (BrO) columns from TROPOMI"
