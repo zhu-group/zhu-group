@@ -1,11 +1,4 @@
-﻿- title: "Urbanization and Air Pollution in Beijing: A Multi-resolution Satellite Assessment of HCHO and NO2"
-  authors: <b>Pu, D.</b>, Ye, J., Shen, H., <b>Li, J.</b>, Tao, Y., Wang, C., Yang, X., Fu, T.-M. <b>Zhu, L. *</b> 
-  journal:  submitted
-  url: 
-  display: 
-  year: 2023
-
-- title: "Integrated Satellite Observations Unravel the Relationship Between Urbanization and Anthropogenic Non-Methane Volatile Organic Compound Emissions Globally"
+﻿- title: "Integrated Satellite Observations Unravel the Relationship Between Urbanization and Anthropogenic Non-Methane Volatile Organic Compound Emissions Globally"
   authors: <b>Pu, D.</b>, <b>Zhu, L. *</b>, Ye, J., <b>Li, J.</b>, <b>Shu, L.</b>, <b>Wang, D.</b>, <b>Li, X.</b>, <b>Zuo, X.</b>, Yang, X., Fu, T.-M. 
   journal:  submitted
   url: 
@@ -32,6 +25,13 @@
   url: 
   display: 
   year: 2023
+
+- title: "Impact of antioxidants on PM2.5 oxidative potential, radical level, and cytotoxicity"
+  authors:  Wang, Y., Xing, C., Cai, B., Qiu, W., Zhai, J., Zeng, Y., Zhang, A., Shi, S., Zhang, Y., Yang, X., Fu, T.-M., Shen, H., Wang, C., <b>Zhu, L.</b>, and Ye, J.
+  journal:  Science of the Total Environment
+  url: https://doi.org/10.1016/j.scitotenv.2023.169555
+  display: Link
+  year: 2024
 
 - title: "Observing downwind structures of urban HCHO plumes from space: Implications to non-methane volatile organic compound emissions"
   authors: <b>Zuo, X.</b>, <b>Sun, W.</b>, De Smedt, I., <b>Li, X.</b>, <b>Liu, S.</b>, <b>Pu, D.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Fu, W.</b>, <b>Zhang, P.</b>, <b>Li, Y.</b>, Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b> 
