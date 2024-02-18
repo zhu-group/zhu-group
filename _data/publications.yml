@@ -1,4 +1,18 @@
-﻿- title: "Integrated Satellite Observations Unravel the Relationship Between Urbanization and Anthropogenic Non-Methane Volatile Organic Compound Emissions Globally"
+﻿- title: "Bayesian inversion of hydrofluorocarbon (HFC) emissions in southern China from a new AGAGE site: results from an observing system simulation experiment"
+  authors: <b>Li, J.</b>, Sheng, J., <b>Zhu, L. *</b>, Yao, B., Wu, J., <b>Pu, D.</b>, <b>Shu, L.</b>, <b>Liu, S.</b>, <b>Li, X.</b>, <b>Chen, Y.</b>, <b>Zuo, X.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, <b>Yan, Z.</b>, Shen, H., Ye, J., Wang, C., Yang, X., and Fu, T.-M. 
+  journal:  submitted
+  url: 
+  display: 
+  year: 2024
+
+- title: "Short-term exposure to fine particulate matter and ozone: source impacts and attributable mortalities"
+  authors: <b>Liu, S.</b>, <b>Li, X.</b>, Wei, J., Shu, L., Fu, T.-M., Yang, X., and <b>Zhu, L. *</b> 
+  journal:  submitted
+  url: 
+  display: 
+  year: 2024
+
+- title: "Integrated Satellite Observations Unravel the Relationship Between Urbanization and Anthropogenic Non-Methane Volatile Organic Compound Emissions Globally"
   authors: <b>Pu, D.</b>, <b>Zhu, L. *</b>, Ye, J., <b>Li, J.</b>, <b>Shu, L.</b>, <b>Wang, D.</b>, <b>Li, X.</b>, <b>Zuo, X.</b>, Yang, X., Fu, T.-M. 
   journal:  submitted
   url: 
@@ -19,12 +33,19 @@
   display: 
   year: 2023
 
+- title: "Internal exposure potential of water-soluble organic molecules in urban PM2.5 evaluated by non-covalent adductome of human serum albumin"
+  authors:  Zeng, Y., Zhang, A., Yang, X., Xing, C., Zhai, J., Wang, Y., Cai, B., Shi, S., Zhang, Y., Shen, Z., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye., J., and Wang, C.
+  journal:  Environment International
+  url: https://doi.org/10.1016/j.envint.2024.108492
+  display: Link
+  year: 2024
+
 - title: "Underappreciated emission spikes and impacts on air quality during heatwaves"
   authors: <b>Liu, S.</b>, <b>Shu, L.</b>, <b>Zhu, L. *</b>, Song, Y., <b>Sun, W.</b>, <b>Chen, Y.</b>, <b>Wang, D.</b>, <b>Pu, D.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
-  journal:  submitted
-  url: 
-  display: 
-  year: 2023
+  journal:  Earth's Future
+  url:  https://doi.org/10.1029/2023EF003937
+  display: Link
+  year: 2024
 
 - title: "Impact of antioxidants on PM2.5 oxidative potential, radical level, and cytotoxicity"
   authors:  Wang, Y., Xing, C., Cai, B., Qiu, W., Zhai, J., Zeng, Y., Zhang, A., Shi, S., Zhang, Y., Yang, X., Fu, T.-M., Shen, H., Wang, C., <b>Zhu, L.</b>, and Ye, J.
