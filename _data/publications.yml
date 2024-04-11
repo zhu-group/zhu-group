@@ -33,19 +33,19 @@
   display: 
   year: 2023
 
-- title: "Satellite NO2 retrieval complicated by aerosol composition over global urban agglomerations: seasonal variations and long-term trends (2001-2018)"
-  authors: <b>Liu, S.</b>, <b>Zhu, L. *</b>, Valks, P., Curci, G., <b>Chen, Y.</b>, <b>Shu, L.</b>, <b>Sun, S.</b>, <b>Pu, D.</b>, <b>Li, X.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, Yang, X., and Fu, T.-M. 
-  journal:  submitted
-  url: 
-  display: 
-  year: 2023
-
 - title: "Validating formaldehyde products from four satellites (OMI, OMPS-NPP, OMPS-N20, and TROPOMI) with FIREX-AQ and WE-CAN aircraft observations over the United States during fire seasons"
   authors: <b>Sun, S.</b>, <b>Zhu, L. *</b>, <b>Liu, S.</b>, <b>Shu, L.</b>, González Abad, G., Nowlan, C., Ayazpour, Z., De Smedt, I., <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Sun, W.</b>, <b>Bai, B.</b>, <b>Wang, D.</b>, <b>Li, X.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, Hu, L., Permar, W., Richter, D., Fried, A., Hanisco, T. F., Wolfe, G. M., Liao, J., St. Clair, J. M., Yang, X., and Fu, T.-M.
   journal:  submitted
   url: 
   display: 
   year: 2023
+
+- title: "Satellite NO2 retrieval complicated by aerosol composition over global urban agglomerations: seasonal variations and long-term trends (2001-2018)"
+  authors: <b>Liu, S.</b>, <b>Zhu, L. *</b>, Valks, P., Curci, G., <b>Chen, Y.</b>, <b>Shu, L.</b>, <b>Sun, S.</b>, <b>Pu, D.</b>, <b>Li, X.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, Yang, X., and Fu, T.-M. 
+  journal:  Environmental Science & Technology
+  url: https://doi.org/10.1021/acs.est.3c02111
+  display: Link
+  year: 2024
 
 - title: "Convolutional Neural Networks Facilitate Process Understanding of Megacity Ozone Temporal Variability"
   authors: Mai, Z., Shen, H., Zhang, Z., Zhe Sun, H., Zheng, L., Guo, J., Liu, C., Chen, Y., Wang, C., Ye, J., <b>Zhu, L.</b>, Fu, T.-M., Yang, X., and Tao, S.
