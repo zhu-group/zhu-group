@@ -89,6 +89,19 @@
   education5:
   statement:
 
+- name: "Huilin Liu | 刘慧琳"
+  photo: Huilin_Liu.jpg
+  group_member: 1
+  info: Research Assistant (2024.07–)
+  email: lhl1329026865@163.com
+  number_educ: 2
+  education1: 2020-2023, MS, Jinan University
+  education2: 2015-2019, BS, Gannan Normal University
+  education3:
+  education4:
+  education5:
+  statement:
+
 - name: <a href="https://www.researchgate.net/profile/Dongchuan_Pu">Dongchuan Pu | 蒲东川</a>
   photo: Dongchuan_Pu.jpg
   group_member: 1
