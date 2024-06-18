@@ -26,6 +26,13 @@
   display: 
   year: 2023
 
+- title: "Technical note: Determining chemical composition of atmospheric single particles by a standard-free mass calibration algorithm"
+  authors: Shi, S., Zhai, J., Yang, X., Ruan, Y., Huang, Y., Chen, X., Zhang, A., Ye, J., Zheng, G., Cai, B., Zeng, Y., Wang, Y., Xing, C., Zhang, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., and Wang, C.
+  journal:  Atmospheric Chemistry and Physics
+  url: https://doi.org/10.5194/acp-24-7001-2024
+  display: Link
+  year: 2024
+
 - title: "Short-term exposure to fine particulate matter and ozone: source impacts and attributable mortalities"
   authors: <b>Liu, S.</b>, <b>Li, X.</b>, Wei, J., Shu, L., Fu, T.-M., Yang, X., and <b>Zhu, L. *</b> 
   journal:  Environmental Science & Technology
