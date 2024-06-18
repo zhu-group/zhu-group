@@ -12,22 +12,8 @@
   display: 
   year: 2024
 
-- title: "Observations and Emission Constraints of Trichlorofluoromethane (CFC-11) in Southern China: First-Year Results from a New AGAGE Station"
-  authors: <b>Chen, Y.</b>, Yao, B., Wu, J., Yang, H., Ding, A., <b>Liu, S.</b>, <b>Li, X.</b>, O'Doherty, S., <b>Li, J.</b>, <b>Li, Y.</b>, Yu, H., Wang, W., Chen, L., Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b> 
-  journal:  submitted
-  url: 
-  display: 
-  year: 2024
-
 - title: "Bayesian inversion of hydrofluorocarbon (HFC) emissions in southern China from a new AGAGE site: results from an observing system simulation experiment"
   authors: <b>Li, J.</b>, Sheng, J., <b>Zhu, L. *</b>, Yao, B., Wu, J., <b>Pu, D.</b>, <b>Shu, L.</b>, <b>Liu, S.</b>, <b>Li, X.</b>, <b>Chen, Y.</b>, <b>Zuo, X.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, <b>Yan, Z.</b>, Shen, H., Ye, J., Wang, C., Yang, X., and Fu, T.-M. 
-  journal:  submitted
-  url: 
-  display: 
-  year: 2024
-
-- title: "Short-term exposure to fine particulate matter and ozone: source impacts and attributable mortalities"
-  authors: <b>Liu, S.</b>, <b>Li, X.</b>, Wei, J., Shu, L., Fu, T.-M., Yang, X., and <b>Zhu, L. *</b> 
   journal:  submitted
   url: 
   display: 
@@ -39,6 +25,20 @@
   url: 
   display: 
   year: 2023
+
+- title: "Short-term exposure to fine particulate matter and ozone: source impacts and attributable mortalities"
+  authors: <b>Liu, S.</b>, <b>Li, X.</b>, Wei, J., Shu, L., Fu, T.-M., Yang, X., and <b>Zhu, L. *</b> 
+  journal:  Environmental Science & Technology
+  url: https://doi.org/10.1021/acs.est.4c00339
+  display: Link
+  year: 2024
+
+- title: "Observations and Emission Constraints of Trichlorofluoromethane (CFC-11) in Southern China: First-Year Results from a New AGAGE Station"
+  authors: <b>Chen, Y.</b>, Yao, B., Wu, J., Yang, H., Ding, A., <b>Liu, S.</b>, <b>Li, X.</b>, O'Doherty, S., <b>Li, J.</b>, <b>Li, Y.</b>, Yu, H., Wang, W., Chen, L., Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b> 
+  journal:  Environmental Research Letters
+  url: https://doi.org/10.1088/1748-9326/ad5857
+  display: Link
+  year: 2024
 
 - title: "Integrated Satellite Observations Unravel the Relationship Between Urbanization and Anthropogenic Non-Methane Volatile Organic Compound Emissions Globally"
   authors: <b>Pu, D.</b>, <b>Zhu, L. *</b>, Shen, H., De Smedt, I., Ye, J., <b>Li, J.</b>, <b>Shu, L.</b>, <b>Wang, D.</b>, <b>Li, X.</b>, <b>Zuo, X.</b>, Yang, X., and Fu, T.-M. 
