@@ -26,19 +26,12 @@
   display: 
   year: 2024
 
-- title: "Bayesian inversion of hydrofluorocarbon (HFC) emissions in southern China from a new AGAGE site: results from an observing system simulation experiment"
+- title: "Bayesian inversion of HFC-134a emissions in southern China from a new AGAGE site: results from an observing system simulation experiment"
   authors: <b>Li, J.</b>, Sheng, J., <b>Zhu, L. *</b>, Yao, B., Wu, J., <b>Pu, D.</b>, <b>Shu, L.</b>, <b>Liu, S.</b>, <b>Li, X.</b>, <b>Chen, Y.</b>, <b>Zuo, X.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, <b>Yan, Z.</b>, Shen, H., Ye, J., Wang, C., Yang, X., and Fu, T.-M. 
-  journal:  submitted
-  url: 
-  display: 
+  journal:  Atmospheric Environment
+  url: https://www.sciencedirect.com/science/article/pii/S135223102400390X
+  display: Link
   year: 2024
-
-- title: "Validating formaldehyde products from four satellites (OMI, OMPS-NPP, OMPS-N20, and TROPOMI) with FIREX-AQ and WE-CAN aircraft observations over the United States during fire seasons"
-  authors: <b>Sun, S.</b>, <b>Zhu, L. *</b>, <b>Liu, S.</b>, <b>Shu, L.</b>, González Abad, G., Nowlan, C., Ayazpour, Z., De Smedt, I., <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Sun, W.</b>, <b>Bai, B.</b>, <b>Wang, D.</b>, <b>Li, X.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, Hu, L., Permar, W., Richter, D., Fried, A., Hanisco, T. F., Wolfe, G. M., Liao, J., St. Clair, J. M., Yang, X., and Fu, T.-M.
-  journal:  submitted
-  url: 
-  display: 
-  year: 2023
 
 - title: "Technical note: Determining chemical composition of atmospheric single particles by a standard-free mass calibration algorithm"
   authors: Shi, S., Zhai, J., Yang, X., Ruan, Y., Huang, Y., Chen, X., Zhang, A., Ye, J., Zheng, G., Cai, B., Zeng, Y., Wang, Y., Xing, C., Zhang, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., and Wang, C.
