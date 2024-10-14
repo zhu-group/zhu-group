@@ -5,6 +5,34 @@
   location: Shanghai, China
   invited_talk: 1
 
+- title: "基于西涌站点的含氟温室气体浓度监测与排放反演" 
+  meeting: 第三届含氟温室气体论坛 
+  presenter: Lei Zhu 
+  date: September 14, 2024 
+  location:  杭州, 江苏 
+  invited_talk: 1 
+ 
+- title: "中国东南部地区CFC-11的浓度监测和排放估计" 
+  meeting: 第三届含氟温室气体论坛 
+  presenter: Yuyang Chen 
+  date: September 13, 2024 
+  location:  杭州, 江苏 
+  invited_talk: 0 
+ 
+- title: "基于全球大气化学传输模型GEOS-Chem的含氟温室气体模拟" 
+  meeting: 第三届含氟温室气体论坛 
+  presenter: Yali Li 
+  date: September 13, 2024 
+  location:  杭州, 江苏 
+  invited_talk: 0 
+ 
+- title: "利用观测系统模拟实验（OSSE）评估反演模型在排放量化中的误差" 
+  meeting: 第三届含氟温室气体论坛 
+  presenter: Juan Li 
+  date: September 13, 2024 
+  location:  杭州, 江苏 
+  invited_talk: 0 
+
 - title: "Observing downwind structures of urban HCHO and CHOCHO plumes with TROPOMI and GEMS: Implications to non-methane volatile organic compound emissions"
   meeting: TEMPO/GEMS Joint Science Team Workshop
   presenter: Lei Zhu
