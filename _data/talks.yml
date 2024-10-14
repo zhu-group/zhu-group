@@ -1,4 +1,4 @@
-﻿- title: "基于西涌站点的含氟温室气体浓度监测与排放反演"
+- title: "基于西涌站点的含氟温室气体浓度监测与排放反演"
   meeting: 第三届含氟温室气体论坛
   presenter: Lei Zhu
   date: September 14, 2024
@@ -25,6 +25,13 @@
   date: September 13, 2024
   location:  杭州, 江苏
   invited_talk: 0
+
+- title: "Underappreciated emission spikes and impacts on air quality during heatwaves"
+  meeting: ABaCAS 2024
+  presenter: Lei Zhu
+  date: September 22, 2024
+  location: Shanghai, China
+  invited_talk: 1
 
 - title: "Observing downwind structures of urban HCHO and CHOCHO plumes with TROPOMI and GEMS: Implications to non-methane volatile organic compound emissions"
   meeting: TEMPO/GEMS Joint Science Team Workshop

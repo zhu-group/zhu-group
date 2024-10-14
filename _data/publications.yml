@@ -1,4 +1,4 @@
-﻿- title: "Evaluating GEMS HCHO retrievals with TROPOMI product, Pandora observations, and GEOS-Chem simulations"
+- title: "Evaluating GEMS HCHO retrievals with TROPOMI product, Pandora observations, and GEOS-Chem simulations"
   authors: <b>Fu, W.</b>, <b>Zhu, L. *</b>, Kwon, H.-A., Park, R. J., Lee, G. T., De Smedt, I., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Zhang, P.</b>, <b>Li, Y.</b>, <b>Yan, Z.</b>, <b>Zhang, X.</b>, <b>Zhang, J.</b>, <b>Wu, X.</b>, Shen, H., Ye, J., Wang, C., Fu, T.-M., and Yang, X.
   journal:  submitted
   url: 
@@ -23,6 +23,20 @@
   authors: Xia, H., Wang, D., González Abad, G., Yang, X., <b>Zhu, L.</b>, <b>Pu, D.</b>, Feng, X., Zhang, A., Song, Z., Mo, Y., and Wang, J.
   journal:  Science of The Total Environment
   url: https://doi.org/10.1016/j.scitotenv.2024.176197
+  display: Link
+  year: 2024
+
+- title: "Formation of Nitrosamines from the Heterogeneous Reaction of Nitrous Acid and Organic Amines in Indoor Environments"
+  authors: Zhang, L., Yuan, W., Zhao, W., Yang, B., Jiao, X., Zhou, L., Long, S., Xu, J., Huang, W., Liu, C., Zheng, G., Shen, H., Ye, J., <b>Zhu, L.</b>, Fu, T.-M., Yang, X., and Wang, C.
+  journal: Environmental Science & Technology
+  url: http://dx.doi.org/10.1021/acs.est.4c05636
+  display: Link
+  year: 2024
+
+- title: "Carbon dioxide emissions from global overseas coal-fired power plants"
+  authors: Guo, P., Shen, H., Chen, Y., Dai, H., Mai, Z., Xu, R., Zhang, R., Wang, Z., He, J., Zheng, L., Zhe Sun, H., Ke, K., Meng, J., Liu, M., Li, J., Adalibieke, W., Wang, C., Ye, J., <b>Zhu, L.</b>, Shen, G., Fu, T.-M., Tsang, A., Yang, X., Russell, R. G., Driscoll, C. T., and Tao, S.
+  journal: Nature Climate Change
+  url: http://dx.doi.org/10.1038/s41558-024-02114-y
   display: Link
   year: 2024
 
