@@ -5,18 +5,18 @@
   display: 
   year: 2024
 
-- title: "Underappreciated roles of soil nitrogen oxide emissions on the global acute health burden"
-  authors: <b>Liu, S.</b>, Wei, J., <b>Li, X.</b>, Shu, L., Fu, T.-M., Yang, X., and <b>Zhu, L. *</b>
-  journal:  submitted
-  url: 
-  display: 
+- title: "Underappreciated roles of soil nitrogen oxide emissions on global acute health burden"
+  authors: <b>Liu, S.</b>, Wei, J., <b>Li, X.</b>, Shu, L., <b>Zhang, J.</b>, Fu, T.-M., Yang, X., and <b>Zhu, L. *</b>
+  journal:  Environment International
+  url: https://doi.org/10.1016/j.envint.2024.109087
+  display: Link
   year: 2024
 
-- title: "Global temperature dependency of biogenic HCHO columns observed from space: Interpretation of TROPOMI results using GEOS-Chem model"
-  authors: <b>Li, X.</b>, <b>Zhu, L. *</b>, De Smedt, I., Sun, W., <b>Chen, Y.</b>, Wang, D., <b>Liu, S.</b>, <b>Pu, D.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, <b>Yan, Z.</b>, Fu, T.-M., Shen, H., Wang, C., Ye, J., and Yang, X.
-  journal:  submitted
-  url: 
-  display: 
+- title: "Global Temperature Dependency of Biogenic HCHO Columns Observed From Space: Interpretation of TROPOMI Results Using GEOS-Chem Model"
+  authors: <b>Li, X.</b>, <b>Zhu, L. *</b>, De Smedt, I., Sun, W., <b>Chen, Y.</b>, Shu, L., Wang, D., <b>Liu, S.</b>, <b>Pu, D.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, <b>Yan, Z.</b>, Fu, T.-M., Shen, H., Wang, C., Ye, J., and Yang, X.
+  journal: Journal of Geophysical Research-Atmospheres
+  url:  https://doi.org/10.1029/2024JD041784
+  display: Link
   year: 2024
 
 - title: "Characteristics of Nocturnal Boundary Layer over a Subtropical Forest: Implications for the Dispersion and Fate of Atmospheric Species"
