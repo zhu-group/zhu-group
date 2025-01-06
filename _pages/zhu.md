@@ -20,7 +20,7 @@ Atmospheric Chemistry
 Remote Sensing of Trace Gases  
 Data Assimilation  
 Air Quality  
-Atmosphere-Land-Ocean Interactions
+Atmosphere-Land-Ocean Interactions  
 Green house gases
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
@@ -53,7 +53,7 @@ Green house gases
 痕量气体遥感  
 数据同化  
 空气质量  
-大气-地面-海洋交互作用
+大气-地面-海洋交互作用  
 温室气体
 
 #### <b>职业经历</b>
