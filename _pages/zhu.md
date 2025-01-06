@@ -8,7 +8,7 @@ permalink: /zhu/
 
 ### <b>Lei Zhu | 朱雷</b>
 [Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_en.pdf)   
-*Last updated: Oct. 1, 2022*  
+*Last updated: Jan. 6, 2024*  
 
 <div class="row">
 
@@ -21,6 +21,7 @@ Remote Sensing of Trace Gases
 Data Assimilation  
 Air Quality  
 Atmosphere-Land-Ocean Interactions
+Green house gases
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
 
@@ -53,6 +54,7 @@ Atmosphere-Land-Ocean Interactions
 数据同化  
 空气质量  
 大气-地面-海洋交互作用
+温室气体
 
 #### <b>职业经历</b>
 
@@ -89,95 +91,93 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>2024</b>
 
-<b>83</b> Fu, W., <b>Zhu, L. *</b>, Kwon, H.-A., Park, R. J., Lee, G. T., De Smedt, I., Liu, S., Li, X., Chen, Y., Pu, D., Li, J., Zuo, X., Zhang, P., Li, Y., Yan, Z., Zhang, X., Zhang, J., Wu, X., Shen, H., Ye, J., Wang, C., Fu, T.-M., and Yang, X.: Evaluating GEMS HCHO retrievals with TROPOMI product, Pandora observations, and GEOS-Chem simulations, </u></em>Earth and Space Science</em></u>, 2024. 
+<b>82</b> Fu, W., <b>Zhu, L. *</b>, Kwon, H.-A., Park, R. J., Lee, G. T., De Smedt, I., Liu, S., Li, X., Chen, Y., Pu, D., Li, J., Zuo, X., Zhang, P., Li, Y., Yan, Z., Zhang, X., Zhang, J., Wu, X., Shen, H., Ye, J., Wang, C., Fu, T.-M., and Yang, X.: Evaluating GEMS HCHO retrievals with TROPOMI product, Pandora observations, and GEOS-Chem simulations, <u><em>Earth and Space Science</em></u>, 2024. 
 
-<b>82</b> Fang, L., Jin, J., Segers, A., Li, K., Xia, J., Han, W., Li, B., Lin, H., <b>Zhu, L.</b>, Liu, S., and Liao, H.: Observational operator for fair model calibration with ground NO2 measurements, <u><em>Geoscientific Model Development</em></u>, 2024. 
+<b>81</b> Fang, L., Jin, J., Segers, A., Li, K., Xia, J., Han, W., Li, B., Lin, H., <b>Zhu, L.</b>, Liu, S., and Liao, H.: Observational operator for fair model calibration with ground NO2 measurements, <u><em>Geoscientific Model Development</em></u>, 2024. 
 
-<b>81</b> Xing, C., Zeng, Y., Zhang, A., Zhai, J., Cai, B., Shi, S., Zhang, Y., Zhang, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., and Wang, C.: Molecular characterization of major oxidative potential active species in ambient PM2.5: Emissions from biomass burning and ship exhaust, <u><em>Environmental Pollution</em></u>, 2024. 
+<b>80</b> Xing, C., Zeng, Y., Zhang, A., Zhai, J., Cai, B., Shi, S., Zhang, Y., Zhang, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., and Wang, C.: Molecular characterization of major oxidative potential active species in ambient PM2.5: Emissions from biomass burning and ship exhaust, <u><em>Environmental Pollution</em></u>, 2024. 
 
-<b>80</b> Liu, S., Wei, J., Li, X., Shu, L., Zhang, J., Fu, T.-M., Yang, X., and <b>Zhu, L. *</b>: Underappreciated roles of soil nitrogen oxide emissions on global acute health burden, <u><em>Environment International</em></u>, 2024. 
+<b>79</b> Liu, S., Wei, J., Li, X., Shu, L., Zhang, J., Fu, T.-M., Yang, X., and <b>Zhu, L. *</b>: Underappreciated roles of soil nitrogen oxide emissions on global acute health burden, <u><em>Environment International</em></u>, 2024. 
 
-<b>79</b> Li, X., <b>Zhu, L. *</b>, De Smedt, I., Sun, W., Chen, Y., Shu, L., Wang, D., Liu, S., Pu, D., Li, J., Zuo, X., Fu, W., Li, Y., Zhang, P., Yan, Z., Fu, T.-M., Shen, H., Wang, C., Ye, J., and Yang, X.: Global Temperature Dependency of Biogenic HCHO Columns Observed From Space: Interpretation of TROPOMI Results Using GEOS-Chem Model, <u><em>Journal of Geophysical Research-Atmospheres</em></u>, 2024. 
+<b>78</b> Li, X., <b>Zhu, L. *</b>, De Smedt, I., Sun, W., Chen, Y., Shu, L., Wang, D., Liu, S., Pu, D., Li, J., Zuo, X., Fu, W., Li, Y., Zhang, P., Yan, Z., Fu, T.-M., Shen, H., Wang, C., Ye, J., and Yang, X.: Global Temperature Dependency of Biogenic HCHO Columns Observed From Space: Interpretation of TROPOMI Results Using GEOS-Chem Model, <u><em>Journal of Geophysical Research-Atmospheres</em></u>, 2024. 
 
-<b>78</b> Jiang, S., Wang, Y., Huang, X., Liu, B., Nie, D., Ge, Y., Ma, L., Wang, Q., Wang, J., Ma, Y., Jiang, S., Shu, Z., Zhang, Y., Sun, J., Wu, C., Ge, X., <b>Zhu, L.</b>, Shen, H., Wang, C., Zheng, Y., Fu, T.-M., Yang, X., Li, Y. J., Chen, Q., and Ye, J.: Characteristics of Nocturnal Boundary Layer over a Subtropical Forest: Implications for the Dispersion and Fate of Atmospheric Species, <u><em>Environmental Science & Technology</em></u>, 2024. 
+<b>77</b> Jiang, S., Wang, Y., Huang, X., Liu, B., Nie, D., Ge, Y., Ma, L., Wang, Q., Wang, J., Ma, Y., Jiang, S., Shu, Z., Zhang, Y., Sun, J., Wu, C., Ge, X., <b>Zhu, L.</b>, Shen, H., Wang, C., Zheng, Y., Fu, T.-M., Yang, X., Li, Y. J., Chen, Q., and Ye, J.: Characteristics of Nocturnal Boundary Layer over a Subtropical Forest: Implications for the Dispersion and Fate of Atmospheric Species, <u><em>Environmental Science & Technology</em></u>, 2024. 
 
-<b>77</b> Zhang, L., Yuan, W., Zhao, W., Yang, B., Jiao, X., Zhou, L., Long, S., Xu, J., Huang, W., Liu, C., Zheng, G., Shen, H., Ye, J., <b>Zhu, L.</b>, Fu, T.-M., Yang, X., and Wang, C.: Formation of Nitrosamines from the Heterogeneous Reaction of Nitrous Acid and Organic Amines in Indoor Environments, <u><em>Environmental Science & Technology</em></u>, 2024. 
+<b>76</b> Zhang, L., Yuan, W., Zhao, W., Yang, B., Jiao, X., Zhou, L., Long, S., Xu, J., Huang, W., Liu, C., Zheng, G., Shen, H., Ye, J., <b>Zhu, L.</b>, Fu, T.-M., Yang, X., and Wang, C.: Formation of Nitrosamines from the Heterogeneous Reaction of Nitrous Acid and Organic Amines in Indoor Environments, <u><em>Environmental Science & Technology</em></u>, 2024. 
 
-<b>76</b> Guo, P., Shen, H., Chen, Y., Dai, H., Mai, Z., Xu, R., Zhang, R., Wang, Z., He, J., Zheng, L., Zhe Sun, H., Ke, K., Meng, J., Liu, M., Li, J., Adalibieke, W., Wang, C., Ye, J., <b>Zhu, L.</b>, Shen, G., Fu, T.-M., Tsang, A., Yang, X., Russell, R. G., Driscoll, C. T., and Tao, S.: Carbon dioxide emissions from global overseas coal-fired power plants, <u><em>Nature Climate Change</em></u>, 2024. 
+<b>75</b> Guo, P., Shen, H., Chen, Y., Dai, H., Mai, Z., Xu, R., Zhang, R., Wang, Z., He, J., Zheng, L., Zhe Sun, H., Ke, K., Meng, J., Liu, M., Li, J., Adalibieke, W., Wang, C., Ye, J., <b>Zhu, L.</b>, Shen, G., Fu, T.-M., Tsang, A., Yang, X., Russell, R. G., Driscoll, C. T., and Tao, S.: Carbon dioxide emissions from global overseas coal-fired power plants, <u><em>Nature Climate Change</em></u>, 2024. 
 
-<b>75</b> Xia, H., Wang, D., González Abad, G., Yang, X., <b>Zhu, L.</b>, Pu, D., Feng, X., Zhang, A., Song, Z., Mo, Y., and Wang, J.: Multi-scale correlation reveals the evolution of socio-natural contributions to tropospheric HCHO over China from 2005 to 2022, <u><em>Science of The Total Environment</em></u>, 2024. 
+<b>74</b> Xia, H., Wang, D., González Abad, G., Yang, X., <b>Zhu, L.</b>, Pu, D., Feng, X., Zhang, A., Song, Z., Mo, Y., and Wang, J.: Multi-scale correlation reveals the evolution of socio-natural contributions to tropospheric HCHO over China from 2005 to 2022, <u><em>Science of The Total Environment</em></u>, 2024. 
 
-<b>74</b> Cai, B., Wang, Y., Yang, X., Li, Y., Zhai, J., Zeng, Y., Ye, J., <b>Zhu, L.</b>, Fu, T.-M., and Zhang, Q.: Rapid aqueous-phase dark reaction of phenols with nitrosonium ions: Novel mechanism for atmospheric nitrosation and nitration at low pH, <u><em>PNAS Nexus</em></u>, 2024. 
+<b>73</b> Cai, B., Wang, Y., Yang, X., Li, Y., Zhai, J., Zeng, Y., Ye, J., <b>Zhu, L.</b>, Fu, T.-M., and Zhang, Q.: Rapid aqueous-phase dark reaction of phenols with nitrosonium ions: Novel mechanism for atmospheric nitrosation and nitration at low pH, <u><em>PNAS Nexus</em></u>, 2024. 
 
-<b>73</b> Zhai, J., Shao, S., Yang, X., Zeng, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., and Tao, S.: Chemically Resolved Respiratory Deposition of Ultrafine Particles Characterized by Number Concentration in the Urban Atmosphere, <u><em>Environmental Science & Technology</em></u>, 2024. 
+<b>72</b> Zhai, J., Shao, S., Yang, X., Zeng, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., and Tao, S.: Chemically Resolved Respiratory Deposition of Ultrafine Particles Characterized by Number Concentration in the Urban Atmosphere, <u><em>Environmental Science & Technology</em></u>, 2024. 
 
-<b>72</b> Chang, D., Li, Q., Wang, Z., Dai, J., Fu, X., Guo, J., <b>Zhu, L.</b>, Pu, D., Cuevas, C. A., Fernandez, R. P., Wang, W., Ge, M., Fund, J. C. H., Lau, A. K. H., Granier, C., Brasseur, G., Pozzer, A., Saiz-Lopez, A., Song, Y., and Wang, T.: Significant chlorine emissions from biomass burning affect the long-term atmospheric chemistry in Asia, <u><em>National Science Review</em></u>, 2024. 
+<b>71</b> Chang, D., Li, Q., Wang, Z., Dai, J., Fu, X., Guo, J., <b>Zhu, L.</b>, Pu, D., Cuevas, C. A., Fernandez, R. P., Wang, W., Ge, M., Fund, J. C. H., Lau, A. K. H., Granier, C., Brasseur, G., Pozzer, A., Saiz-Lopez, A., Song, Y., and Wang, T.: Significant chlorine emissions from biomass burning affect the long-term atmospheric chemistry in Asia, <u><em>National Science Review</em></u>, 2024. 
 
-<b>71</b> Wang, D., Pu, D., De Smedt, I., <b>Zhu, L. *</b>, Yang, X. *, Sun, W., Xia, H., Song, Z., Li, X., Li, J., Zhang, A., Feng, X., Chen, Y., Yang, X., Fu, T.-M., and Wang, J.: Evolution of global O3-NOx-VOCs sensitivity before and after the COVID-19 from the ratio of formaldehyde to NO2 from satellites observations, <u><em>Journal of Environmental Sciences</em></u>, 2024. 
+<b>70</b> Wang, D., Pu, D., De Smedt, I., <b>Zhu, L. *</b>, Yang, X. *, Sun, W., Xia, H., Song, Z., Li, X., Li, J., Zhang, A., Feng, X., Chen, Y., Yang, X., Fu, T.-M., and Wang, J.: Evolution of global O3-NOx-VOCs sensitivity before and after the COVID-19 from the ratio of formaldehyde to NO2 from satellites observations, <u><em>Journal of Environmental Sciences</em></u>, 2024. 
 
-<b>70</b> Li, J., Sheng, J., <b>Zhu, L. *</b>, Yao, B., Wu, J., Pu, D., Shu, L., Liu, S., Li, X., Chen, Y., Zuo, X., Li, Y., Zhang, P., Yan, Z., Shen, H., Ye, J., Wang, C., Yang, X., and Fu, T.-M.: Bayesian inversion of HFC-134a emissions in southern China from a new AGAGE site: results from an observing system simulation experiment, <u><em>Atmospheric Environment</em></u>, 2024. 
+<b>69</b> Li, J., Sheng, J., <b>Zhu, L. *</b>, Yao, B., Wu, J., Pu, D., Shu, L., Liu, S., Li, X., Chen, Y., Zuo, X., Li, Y., Zhang, P., Yan, Z., Shen, H., Ye, J., Wang, C., Yang, X., and Fu, T.-M.: Bayesian inversion of HFC-134a emissions in southern China from a new AGAGE site: results from an observing system simulation experiment, <u><em>Atmospheric Environment</em></u>, 2024. 
 
-<b>69</b> Shi, S., Zhai, J., Yang, X., Ruan, Y., Huang, Y., Chen, X., Zhang, A., Ye, J., Zheng, G., Cai, B., Zeng, Y., Wang, Y., Xing, C., Zhang, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., and Wang, C.: Technical note: Determining chemical composition of atmospheric single particles by a standard-free mass calibration algorithm, <u><em>Atmospheric Chemistry and Physics</em></u>, 2024. 
+<b>68</b> Shi, S., Zhai, J., Yang, X., Ruan, Y., Huang, Y., Chen, X., Zhang, A., Ye, J., Zheng, G., Cai, B., Zeng, Y., Wang, Y., Xing, C., Zhang, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., and Wang, C.: Technical note: Determining chemical composition of atmospheric single particles by a standard-free mass calibration algorithm, <u><em>Atmospheric Chemistry and Physics</em></u>, 2024. 
 
-<b>68</b> Liu, S., Li, X., Wei, J., Shu, L., Fu, T.-M., Yang, X., and <b>Zhu, L. *</b>: Short-term exposure to fine particulate matter and ozone: source impacts and attributable mortalities, <u><em>Environmental Science & Technology</em></u>, 2024. 
+<b>67</b> Liu, S., Li, X., Wei, J., Shu, L., Fu, T.-M., Yang, X., and <b>Zhu, L. *</b>: Short-term exposure to fine particulate matter and ozone: source impacts and attributable mortalities, <u><em>Environmental Science & Technology</em></u>, 2024. 
 
-<b>67</b> Chen, Y., Yao, B., Wu, J., Yang, H., Ding, A., Liu, S., Li, X., O'Doherty, S., Li, J., Li, Y., Yu, H., Wang, W., Chen, L., Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b>: Observations and Emission Constraints of Trichlorofluoromethane (CFC-11) in Southern China: First-Year Results from a New AGAGE Station, <u><em>Environmental Research Letters</em></u>, 2024. 
+<b>66</b> Chen, Y., Yao, B., Wu, J., Yang, H., Ding, A., Liu, S., Li, X., O'Doherty, S., Li, J., Li, Y., Yu, H., Wang, W., Chen, L., Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b>: Observations and Emission Constraints of Trichlorofluoromethane (CFC-11) in Southern China: First-Year Results from a New AGAGE Station, <u><em>Environmental Research Letters</em></u>, 2024. 
 
-<b>66</b> Pu, D., <b>Zhu, L. *</b>, Shen, H., De Smedt, I., Ye, J., Li, J., Shu, L., Wang, D., Li, X., Zuo, X., Yang, X., and Fu, T.-M.: Integrated Satellite Observations Unravel the Relationship Between Urbanization and Anthropogenic Non-Methane Volatile Organic Compound Emissions Globally, <u><em>npj Climate and Atmospheric Science</em></u>, 2024. 
+<b>65</b> Pu, D., <b>Zhu, L. *</b>, Shen, H., De Smedt, I., Ye, J., Li, J., Shu, L., Wang, D., Li, X., Zuo, X., Yang, X., and Fu, T.-M.: Integrated Satellite Observations Unravel the Relationship Between Urbanization and Anthropogenic Non-Methane Volatile Organic Compound Emissions Globally, <u><em>npj Climate and Atmospheric Science</em></u>, 2024. 
 
-<b>65</b> 蒲东川, 王大康, <b>朱雷</b>, 杨现坤, 王晋年: 基于OLI和TROPOMI卫星数据的北京市臭氧前体物研究, <u><em>中国环境科学</em></u>, 2024. 
+<b>64</b> 蒲东川, 王大康, <b>朱雷</b>, 杨现坤, 王晋年: 基于OLI和TROPOMI卫星数据的北京市臭氧前体物研究, <u><em>中国环境科学</em></u>, 2024. 
 
-<b>64</b> Li, M., Huang, X., Yan, D., Lai, S., Zhang, Z., <b>Zhu, L.</b>, Lu, Y., Jiang, X., Wang, N., Wang, T., Song, Yu, and Ding, A.: Coping with the concurrent heatwaves and ozone extremes in China under a warming climate, <u><em>Science Bulletin</em></u>, 2024. 
+<b>63</b> Li, M., Huang, X., Yan, D., Lai, S., Zhang, Z., <b>Zhu, L.</b>, Lu, Y., Jiang, X., Wang, N., Wang, T., Song, Yu, and Ding, A.: Coping with the concurrent heatwaves and ozone extremes in China under a warming climate, <u><em>Science Bulletin</em></u>, 2024. 
 
-<b>63</b> Liu, S., Valks, P., Curci, G., Chen, Y., Shu, L., Jin, J., Sun, S., Pu, D., Li, X., Li, J., Zuo, X., Fu, W., Li, Y., Zhang, P., Yang, X., Fu, T.-M, and <b>Zhu, L. *</b>: Satellite NO2 retrieval complicated by aerosol composition over global urban agglomerations: seasonal variations and long-term trends (2001-2018), <u><em>Environmental Science & Technology</em></u>, 2024. 
+<b>62</b> Liu, S., Valks, P., Curci, G., Chen, Y., Shu, L., Jin, J., Sun, S., Pu, D., Li, X., Li, J., Zuo, X., Fu, W., Li, Y., Zhang, P., Yang, X., Fu, T.-M, and <b>Zhu, L. *</b>: Satellite NO2 retrieval complicated by aerosol composition over global urban agglomerations: seasonal variations and long-term trends (2001-2018), <u><em>Environmental Science & Technology</em></u>, 2024. 
 
-<b>62</b> Mai, Z., Shen, H., Zhang, Z., Zhe Sun, H., Zheng, L., Guo, J., Liu, C., Chen, Y., Wang, C., Ye, J., <b>Zhu, L.</b>, Fu, T.-M., Yang, X., and Tao, S.: Convolutional Neural Networks Facilitate Process Understanding of Megacity Ozone Temporal Variability, <u><em>Environmental Science & Technology</em></u>, 2024. 
+<b>61</b> Mai, Z., Shen, H., Zhang, Z., Zhe Sun, H., Zheng, L., Guo, J., Liu, C., Chen, Y., Wang, C., Ye, J., <b>Zhu, L.</b>, Fu, T.-M., Yang, X., and Tao, S.: Convolutional Neural Networks Facilitate Process Understanding of Megacity Ozone Temporal Variability, <u><em>Environmental Science & Technology</em></u>, 2024. 
 
-<b>61</b> Zheng, L., Adalibieke, W., Zhou, F., He, P., Chen, Y., Guo, P., He, J., Zhang, Y., Xu, P., Wang, C., Ye, J., <b>Zhu, L.</b>, Shen, G., Fu, T.-M., Yang, X., Zhao, S., Hakami, A., Russell, A. G., Tao, S., Meng, J., and Shen, H.: Health burden from food systems is highly unequal across income groups, <u><em>Nature Food</em></u>, 2024. 
+<b>60</b> Zheng, L., Adalibieke, W., Zhou, F., He, P., Chen, Y., Guo, P., He, J., Zhang, Y., Xu, P., Wang, C., Ye, J., <b>Zhu, L.</b>, Shen, G., Fu, T.-M., Yang, X., Zhao, S., Hakami, A., Russell, A. G., Tao, S., Meng, J., and Shen, H.: Health burden from food systems is highly unequal across income groups, <u><em>Nature Food</em></u>, 2024. 
 
-<b>60</b> Wu, W., Fu, T.-M., Arnold, S. R., Spracklen, D. V., Zhang, A., Tao, W., Wang, X., Hou, Y., Mo, J., Chen, J., Li, Y., Feng, X., Lin, H., Huang, Z., Zheng, J., Shen, H., <b>Zhu, L.</b>, Wang, C., Ye, J., and Yang, X.: Temperature-Dependent Evaporative Anthropogenic VOC Emissions Significantly Exacerbate Regional Ozone Pollution, <u><em>Environmental Science & Technology</em></u>, 2024. 
+<b>59</b> Wu, W., Fu, T.-M., Arnold, S. R., Spracklen, D. V., Zhang, A., Tao, W., Wang, X., Hou, Y., Mo, J., Chen, J., Li, Y., Feng, X., Lin, H., Huang, Z., Zheng, J., Shen, H., <b>Zhu, L.</b>, Wang, C., Ye, J., and Yang, X.: Temperature-Dependent Evaporative Anthropogenic VOC Emissions Significantly Exacerbate Regional Ozone Pollution, <u><em>Environmental Science & Technology</em></u>, 2024. 
 
-<b>59</b> Zeng, Y., Zhang, A., Yang, X., Xing, C., Zhai, J., Wang, Y., Cai, B., Shi, S., Zhang, Y., Shen, Z., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye., J., and Wang, C.: Internal exposure potential of water-soluble organic molecules in urban PM2.5 evaluated by non-covalent adductome of human serum albumin, <u><em>Environment International</em></u>, 2024. 
+<b>58</b> Zeng, Y., Zhang, A., Yang, X., Xing, C., Zhai, J., Wang, Y., Cai, B., Shi, S., Zhang, Y., Shen, Z., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye., J., and Wang, C.: Internal exposure potential of water-soluble organic molecules in urban PM2.5 evaluated by non-covalent adductome of human serum albumin, <u><em>Environment International</em></u>, 2024. 
 
-<b>58</b> Liu, S., Shu, L., <b>Zhu, L. *</b>, Song, Y., Sun, W., Chen, Y., Wang, D., Pu, D., Li, X., Sun, S., Li, J., Zuo, X., Fu, W., Yang, X., and Fu, T.-M.: Underappreciated emission spikes and impacts on air quality during heatwaves, <u><em>Earth's Future</em></u>, 2024. 
+<b>57</b> Liu, S., Shu, L., <b>Zhu, L. *</b>, Song, Y., Sun, W., Chen, Y., Wang, D., Pu, D., Li, X., Sun, S., Li, J., Zuo, X., Fu, W., Yang, X., and Fu, T.-M.: Underappreciated emission spikes and impacts on air quality during heatwaves, <u><em>Earth's Future</em></u>, 2024. 
 
-<b>57</b> Wang, Y., Xing, C., Cai, B., Qiu, W., Zhai, J., Zeng, Y., Zhang, A., Shi, S., Zhang, Y., Yang, X., Fu, T.-M., Shen, H., Wang, C., <b>Zhu, L.</b>, and Ye, J.: Impact of antioxidants on PM2.5 oxidative potential, radical level, and cytotoxicity, <u><em>Science of the Total Environment</em></u>, 2024.
+<b>56</b> Wang, Y., Xing, C., Cai, B., Qiu, W., Zhai, J., Zeng, Y., Zhang, A., Shi, S., Zhang, Y., Yang, X., Fu, T.-M., Shen, H., Wang, C., <b>Zhu, L.</b>, and Ye, J.: Impact of antioxidants on PM2.5 oxidative potential, radical level, and cytotoxicity, <u><em>Science of the Total Environment</em></u>, 2024.
 
 <b>2023</b>
 
-<b>56</b> Zuo, X., Sun, W., De Smedt, I., Li, X., Liu, S., Pu, D., Sun, S., Li, J., Chen, Y., Fu, W., Zhang, P., Li, Y., Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b>: Observing downwind structures of urban HCHO plumes from space: Implications to non-methane volatile organic compound emissions, <u><em>Geophysical Research Letters</em></u>, 2023. 
+<b>55</b> Zuo, X., Sun, W., De Smedt, I., Li, X., Liu, S., Pu, D., Sun, S., Li, J., Chen, Y., Fu, W., Zhang, P., Li, Y., Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b>: Observing downwind structures of urban HCHO plumes from space: Implications to non-methane volatile organic compound emissions, <u><em>Geophysical Research Letters</em></u>, 2023. 
 
-<b>55</b> Chen, Y., Liu, S., <b>Zhu, L. *</b>, Seo S., Richter, A., Li, X., Ding, A., Sun, W., Shu, L., Wang, X., Valks, P., Hendrick, F., Koenig, T. K., Volkamer, R., Bai, B., Wang, D., Pu, D., Sun, S., Li, J., Zuo, X., Fu, W., Li, Y., Zhang, P., Yang, X., and Fu, T.-M.: Global observations of tropospheric bromine monoxide (BrO) columns from TROPOMI, <u><em>Journal of Geophysical Research-Atmospheres</em></u>, 2023. 
+<b>54</b> Chen, Y., Liu, S., <b>Zhu, L. *</b>, Seo S., Richter, A., Li, X., Ding, A., Sun, W., Shu, L., Wang, X., Valks, P., Hendrick, F., Koenig, T. K., Volkamer, R., Bai, B., Wang, D., Pu, D., Sun, S., Li, J., Zuo, X., Fu, W., Li, Y., Zhang, P., Yang, X., and Fu, T.-M.: Global observations of tropospheric bromine monoxide (BrO) columns from TROPOMI, <u><em>Journal of Geophysical Research-Atmospheres</em></u>, 2023. 
 
-<b>54</b> Zhang, A., Zeng, Y., Yang, X., Zhai, J., Wang, Y., Xing, C., Cai, B., Shi, S., Zhang, Y., Shen, Z., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., and Wang, C.: Organic Matrix Effect on the Molecular Light Absorption of Brown Carbon, <u><em>Geophysical Research Letters</em></u>, 2023. 
+<b>53</b> Zhang, A., Zeng, Y., Yang, X., Zhai, J., Wang, Y., Xing, C., Cai, B., Shi, S., Zhang, Y., Shen, Z., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., and Wang, C.: Organic Matrix Effect on the Molecular Light Absorption of Brown Carbon, <u><em>Geophysical Research Letters</em></u>, 2023. 
 
-<b>53</b> He, J., Shen, H., Lei, T., Chen, Y., Meng, J., Sun, H., Li, M., Wang, C., Ye, J., <b>Zhu, L.</b>, Zhou, Z., Shen, G, Guan, D., Fu, T.-M., Yang, X., and Tao, S.: Investigation of Plant-Level Volatile Organic Compound Emissions from Chemical Industry Highlights the Importance of Differentiated Control in China, <u><em>Environmental Science & Technology</em></u>, 2023. 
+<b>52</b> He, J., Shen, H., Lei, T., Chen, Y., Meng, J., Sun, H., Li, M., Wang, C., Ye, J., <b>Zhu, L.</b>, Zhou, Z., Shen, G, Guan, D., Fu, T.-M., Yang, X., and Tao, S.: Investigation of Plant-Level Volatile Organic Compound Emissions from Chemical Industry Highlights the Importance of Differentiated Control in China, <u><em>Environmental Science & Technology</em></u>, 2023. 
 
-<b>52</b> Liu, S., Li, X., Li, J., Shu, L., Fu, T.-M., Yang, X., and <b>Zhu, L. *</b>: Observing network effect of shipping emissions from space: a natural experiment in the world’s busiest port, <u><em>PNAS Nexus, 2023</em></u>. 
+<b>51</b> Liu, S., Li, X., Li, J., Shu, L., Fu, T.-M., Yang, X., and <b>Zhu, L. *</b>: Observing network effect of shipping emissions from space: a natural experiment in the world’s busiest port, <u><em>PNAS Nexus, 2023</em></u>. 
 
-<b>51</b> Zhang, J., Shen, H., Chen, Y., Meng, J., Li, J., He, J., Guo, P., Dai, R., Zhang, Y., Xu, R., Wang, J., Zheng, S., Lei, T., Shen, G., Wang, C., Ye, J., <b>Zhu, L.</b>, Zhe Sun, H., Fu, T.-M., Yang, X., Guan, D., and Tao, S.: Iron and Steel Industry Emissions: A Global Analysis of Trends and Drivers, <u><em>Environmental Science & Technology</em></u>, 2023. 
+<b>50</b> Zhang, J., Shen, H., Chen, Y., Meng, J., Li, J., He, J., Guo, P., Dai, R., Zhang, Y., Xu, R., Wang, J., Zheng, S., Lei, T., Shen, G., Wang, C., Ye, J., <b>Zhu, L.</b>, Zhe Sun, H., Fu, T.-M., Yang, X., Guan, D., and Tao, S.: Iron and Steel Industry Emissions: A Global Analysis of Trends and Drivers, <u><em>Environmental Science & Technology</em></u>, 2023. 
 
-<b>50</b> Feng, X., Ma, Y., Lin, H., Fu, T.-M., Zhang, Y., Wang, X., Zhang, A., Yuan, Y., Han, Z., Mao, J., Wang, D., <b>Zhu, L.</b>, Wu, Y., Li, Y., and Yang, X.: Impacts of Ship Emissions on Air Quality in Southern China: Opportunistic Insights from the Abrupt Emission Changes in Early 2020, <u><em>Environmental Science & Technology</em></u>, 2023. 
+<b>49</b> Feng, X., Ma, Y., Lin, H., Fu, T.-M., Zhang, Y., Wang, X., Zhang, A., Yuan, Y., Han, Z., Mao, J., Wang, D., <b>Zhu, L.</b>, Wu, Y., Li, Y., and Yang, X.: Impacts of Ship Emissions on Air Quality in Southern China: Opportunistic Insights from the Abrupt Emission Changes in Early 2020, <u><em>Environmental Science & Technology</em></u>, 2023. 
 
-<b>49</b> Zhai, J., Yu, G., Zhang, J., Shi, S., Yuan, Y., Jiang, S., Xing, C., Cai, B., Zeng, Y., Wang, Y., Zhang, A., Zhang, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., Tao, S., Li, M., Zhang, Y., and Yang, X.: Impact of Ship Emissions on Air Quality in the Greater Bay Area in China under the Latest Global Marine Fuel Regulation, <u><em>Environmental Science & Technology</em></u>, 2023. 
+<b>48</b> Zhai, J., Yu, G., Zhang, J., Shi, S., Yuan, Y., Jiang, S., Xing, C., Cai, B., Zeng, Y., Wang, Y., Zhang, A., Zhang, Y., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., Tao, S., Li, M., Zhang, Y., and Yang, X.: Impact of Ship Emissions on Air Quality in the Greater Bay Area in China under the Latest Global Marine Fuel Regulation, <u><em>Environmental Science & Technology</em></u>, 2023. 
 
-<b>48</b> Shu, L., <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., Liu, S., Li, X., Sun, S., Li, J., Chen, Y., Pu, D., Zuo, X., Fu, W., Yang, X., and Fu, T.-M.: Improving Ozone Simulations in Asia via Multisource Data Assimilation: Results from an Observing System Simulation Experiment with GEMS Geostationary Satellite Observations, <u><em>Atmospheric Chemistry and Physics</em></u>, 2023. 
+<b>47</b> Shu, L., <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., Liu, S., Li, X., Sun, S., Li, J., Chen, Y., Pu, D., Zuo, X., Fu, W., Yang, X., and Fu, T.-M.: Improving Ozone Simulations in Asia via Multisource Data Assimilation: Results from an Observing System Simulation Experiment with GEMS Geostationary Satellite Observations, <u><em>Atmospheric Chemistry and Physics</em></u>, 2023. 
 
-<b>47</b> Nowlan, C. R., González Abad, G., Kwon, H.-A., Ayazpour, Z., Chan Miller, C., Chance, K., Chong, H., Liu, X., O’Sullivan, E., Wang, H., <b>Zhu, L.</b>, De Smedt, I., Jaross, G., Seftor, C., and Sun, K.: Global Formaldehyde Products from the Ozone Mapping and Profiler Suite (OMPS) Nadir Mappers on Suomi NPP and NOAA-20, <u><em>Earth and Space Science</em></u>, 2023. 
+<b>46</b> Nowlan, C. R., González Abad, G., Kwon, H.-A., Ayazpour, Z., Chan Miller, C., Chance, K., Chong, H., Liu, X., O’Sullivan, E., Wang, H., <b>Zhu, L.</b>, De Smedt, I., Jaross, G., Seftor, C., and Sun, K.: Global Formaldehyde Products from the Ozone Mapping and Profiler Suite (OMPS) Nadir Mappers on Suomi NPP and NOAA-20, <u><em>Earth and Space Science</em></u>, 2023. 
 
-<b>46</b> Souri, A. H., Johnson, M. S., Wolfe, G. M., Crawford, J. H., Fried, A., Wisthaler, A., Brune, W. H., Blake, D. R., Weinheimer, A. J., Verhoelst, T., Compernolle, S., Pinardi, G., Vigouroux, C., Langerock, B., Choi, S., Lamsal, L., <b>Zhu, L.</b>, Sun, S., Cohen, R. C., Min, K.-E., Cho, C., Philip, S., Liu, X., and Chance, K.: Characterization of Errors in Satellite-based HCHO/NO2 Tropospheric Column Ratios with Respect to Chemistry, Column to PBL Translation, Spatial Representation, and Retrieval Uncertainties, <u><em>Atmospheric Chemistry and Physics</em></u>, 2023.
+<b>45</b> Souri, A. H., Johnson, M. S., Wolfe, G. M., Crawford, J. H., Fried, A., Wisthaler, A., Brune, W. H., Blake, D. R., Weinheimer, A. J., Verhoelst, T., Compernolle, S., Pinardi, G., Vigouroux, C., Langerock, B., Choi, S., Lamsal, L., <b>Zhu, L.</b>, Sun, S., Cohen, R. C., Min, K.-E., Cho, C., Philip, S., Liu, X., and Chance, K.: Characterization of Errors in Satellite-based HCHO/NO2 Tropospheric Column Ratios with Respect to Chemistry, Column to PBL Translation, Spatial Representation, and Retrieval Uncertainties, <u><em>Atmospheric Chemistry and Physics</em></u>, 2023.
 
-<b>45</b> Xing, C., Wang, Y., Yang, X., Zeng, Y., Zhai, J., Cai, B., Zhang, A., Fu, T.-M., <b>Zhu, L.</b>, Li, Y., Wang, X., and Zhang, Y.: Seasonal variation of driving factors of ambient PM2.5 oxidative potential in Shenzhen, China, <u><em>Science of the Total Environment</em></u>, 2023.
+<b>44</b> Xing, C., Wang, Y., Yang, X., Zeng, Y., Zhai, J., Cai, B., Zhang, A., Fu, T.-M., <b>Zhu, L.</b>, Li, Y., Wang, X., and Zhang, Y.: Seasonal variation of driving factors of ambient PM2.5 oxidative potential in Shenzhen, China, <u><em>Science of the Total Environment</em></u>, 2023.
 
 <b>2022</b>
 
-<b>44</b> Zhai, J., Yang, X., Li, L., Ye, X., Chen, J., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., and Tao, S.: Direct observation of the transitional stage of mixing-state-related absorption enhancement for atmospheric black carbon, <u><em>Geophysical Research Letters</em></u>, 2022. 
+<b>43</b> Zhai, J., Yang, X., Li, L., Ye, X., Chen, J., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., and Tao, S.: Direct observation of the transitional stage of mixing-state-related absorption enhancement for atmospheric black carbon, <u><em>Geophysical Research Letters</em></u>, 2022. 
 
-<b>43</b> Wang, X., Fu, T.-M., Zhang, L., Lu, X., Liu, X., Amnuaylojaroen, T., Latif, M. T., Ma, Y., Zhang, L., Feng, X., <b>Zhu, L.</b>, Shen, H., Yang, X.: Rapidly changing emissions drove substantial surface and tropospheric ozone increases over Southeast Asia, <u><em>Geophysical Research Letters</em></u>, 2022. 
+<b>42</b> Wang, X., Fu, T.-M., Zhang, L., Lu, X., Liu, X., Amnuaylojaroen, T., Latif, M. T., Ma, Y., Zhang, L., Feng, X., <b>Zhu, L.</b>, Shen, H., Yang, X.: Rapidly changing emissions drove substantial surface and tropospheric ozone increases over Southeast Asia, <u><em>Geophysical Research Letters</em></u>, 2022. 
 
-<b>42</b> Pu, D., <b>Zhu, L. *</b>, De Smedt, I., Li, X., Sun, W., Wang, D., Liu, S., Li, J., Shu, L., Chen, Y., Sun, S., Zuo, X., Fu, W., Xu, P., Yang, X., and Fu, T.-M.: Response of Anthropogenic Volatile Organic Compound Emissions to Urbanization in Asia Probed with TROPOMI and VIIRS Satellite Observations, <u><em>Geophysical Research Letters</em></u>, 2022.
-
-<b>41</b> Souri, A. H., Johnson, M. S., Wolfe, G. M., Crawford, J. H., Fried, A., Wisthaler, A., Brune, W. H., Blake, D. R., Weinheimer, A. J., Verhoelst, T., Compernolle, S., Pinardi, G., Vigouroux, C., Langerock, B., Choi, S., Lamsal, L., <b>Zhu, L.</b>, Sun, S., Cohen, R. C., Min, K.-E., Cho, C., Philip, S., Liu, X., and Chance, K.: Characterization of Errors in Satellite-based HCHO/NO2 Tropospheric Column Ratios with Respect to Chemistry, Column to PBL Translation, Spatial Representation, and Retrieval Uncertainties, <u><em>Atmospheric Chemistry and Physics Discussions</em></u>, 2022. 
+<b>41</b> Pu, D., <b>Zhu, L. *</b>, De Smedt, I., Li, X., Sun, W., Wang, D., Liu, S., Li, J., Shu, L., Chen, Y., Sun, S., Zuo, X., Fu, W., Xu, P., Yang, X., and Fu, T.-M.: Response of Anthropogenic Volatile Organic Compound Emissions to Urbanization in Asia Probed with TROPOMI and VIIRS Satellite Observations, <u><em>Geophysical Research Letters</em></u>, 2022.
 
 <b>40</b> Long, X., Fu, T.-M., Yang, X., Tang, Y., Zheng, Y., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., Wang, T., and Li, B.: Efficient Atmospheric Transport of Microplastics over Asia and Adjacent Oceans, <u><em>Environmental Science & Technology</em></u>, 2022. 
 
@@ -272,6 +272,8 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 <div class="col-sm-12 clearfix">
 
 #### <b>SELECTED INVITED SEMINARS | 部分受邀讲座</b>
+
+Observing downwind structures of urban HCHO and CHOCHO plumes with TROPOMI and GEMS: Implications to non-methane volatile organic compound emissions, <i>TEMPO/GEMS Joint Science Team Workshop</i>, <u>August 30, 2024</u>, Kailua-Kona, Hawaii, USA.
 
 Observing downwind structures of urban HCHO plumes from space: Implications to non-methane volatile organic compound emissions, <i>The International Expert Workshop on Volatile Organic Compounds</i>, <u>November 29, 2023</u>, Hong Kong.
 
