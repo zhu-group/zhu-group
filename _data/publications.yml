@@ -1,4 +1,25 @@
-﻿- title: "Evaluating GEMS HCHO retrievals with TROPOMI product, Pandora observations, and GEOS-Chem simulations"
+﻿- title: "Developing the chemistry module for 27 fluorinated greenhouse gases (F-gases): Reactions, emissions, and implementation in GEOS-Chem"
+  authors: Li, Y., Zhu, L., Li, J.,  Chen, Y., Western, L. M., Young, D., Mühle, J., Weiss, R. F., Krummel, P. B., Lunder, C. R., Liu, S., Li, X., Fu, W., Yan, Z., Zhang, P., Zhang, X., Zhang, J., Wu, X., Yang, X., Fu, T.-M., Shen, H., Ye, J., and Wang, C.
+  journal:  submitted
+  url: 
+  display: 
+  year: 
+
+- title: "Inverse Modeling of High Global Warming Potential Perfluorinated Greenhouse Gases in Southeastern China"
+  authors: <b>Chen, Y.</b>, Yao, B., An, M., Ding, A., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Li, Y.</b>, O'Doherty, S., Krummel, P. B., Yang, H., Yu, H., Chen, L., Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b>
+  journal:  submitted
+  url: 
+  display: 
+  year: 
+
+- title: "Hydrofluorocarbons (HFCs) in Southern China: High-Frequency Observations and Emission Estimates"
+  authors: <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Li, Y.</b>, <b>Liu, S.</b>, An, M., Yao, B., Western, L. M., Rigby, M., Ganesan, A. L., O'Doherty, S., Sheng, J., Krummel, P. B., Yang, H., Yu, H., Chen, L., Shen, H., Ye, J., Wang, C., Yang, X., Fu, T.-M., and <b>Zhu, L. *</b>
+  journal: submitted
+  url: 
+  display: 
+  year: 
+
+- title: "Evaluating GEMS HCHO retrievals with TROPOMI product, Pandora observations, and GEOS-Chem simulations"
   authors: <b>Fu, W.</b>, <b>Zhu, L. *</b>, Kwon, H.-A., Park, R. J., Lee, G. T., De Smedt, I., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Li, J.</b>, <b>Zuo, X.</b>, <b>Zhang, P.</b>, <b>Li, Y.</b>, <b>Yan, Z.</b>, <b>Zhang, X.</b>, <b>Zhang, J.</b>, <b>Wu, X.</b>, Shen, H., Ye, J., Wang, C., Fu, T.-M., and Yang, X.
   journal:  Earth and Space Science
   url: https://doi.org/10.1029/2024EA003894
