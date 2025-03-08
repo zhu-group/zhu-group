@@ -19,6 +19,27 @@
   display: 
   year: 2024
 
+- title: "Particulate matter (PM) and ozone air quality in Urumqi of Northwest China: seasonality, trends, and sources"
+  authors: Liu, X., Zhai, S., Li, K., <b>Zhu, L.</b>, <b>Liu, S.</b>, Shah, V., Tai, A. P. K., Geng, G., Hou, X., Mamtimin, A., Li, X., and Zhao, T. 
+  journal:  Atmospheric Environment
+  url: https://doi.org/10.1016/j.atmosenv.2025.121150
+  display: Link
+  year: 2025
+
+- title: "Evolution of global O3-NOx-VOCs sensitivity before and after the COVID-19 from the ratio of formaldehyde to NO2 from satellites observations"
+  authors: <b>Wang, D.</b>, <b>Pu, D.</b>, De Smedt, I., <b>Zhu, L. *</b>, Yang, X. *, <b>Sun, W.</b>, Xia, H., Song, Z., <b>Li, X.</b>, <b>Li, J.</b>, Zhang, A., Feng, X., <b>Chen, Y.</b>, Yang, X., Fu, T.-M., and Wang, J.
+  journal:  Journal of Environmental Sciences
+  url: https://doi.org/10.1016/j.jes.2024.07.029
+  display: Link
+  year: 2025
+
+- title: "Nitrogen dominates global atmospheric organic aerosol absorption"
+  authors: Li, Y., Fu, T.-M., Yu, J., Zhang, A., Yu, X., Ye, J., <b>Zhu, L.</b>, Shen, H., Wang, C., Yang, X., Tao, S., Chen, Q., Li, Y., Li, L., Chen, H., and Heald, C. L.
+  journal: Science
+  url: 10.1126/science.adr4473
+  display: Link
+  year: 2025
+
 - title: "Aura Ozone Monitoring Instrument (OMI) Collection 4 Formaldehyde Products"
   authors: Ayazpour, Z., González Abad, G., Nowlan, C. R., Sun, K., Kwon, H.-A., Chan Miller, C., Chong, H., Wang, H., Liu, X., Chance, K., O'Sullivan, E., <b>Zhu, L.</b>,  Vigouroux, C., De Smedt, I., Stremme, W., Hannigan, J. W., Notholt, J., Sun, X., Palm, M., Petri, C., Strong, K., Röhling, A. N., Mahieu, E., Smale, D., Té, Y., Morino, I., Murata, I., Nagahama, T., Kivi, R., Makarova, M., Jones, N., Sussmann, R., and Zhou, M.
   journal:  Earth and Space Science
@@ -107,13 +128,6 @@
   authors: Chang, D., Li, Q., Wang, Z., Dai, J., Fu, X., Guo, J., <b>Zhu, L.</b>, <b>Pu, D.</b>, Cuevas, C. A., Fernandez, R. P., Wang, W., Ge, M., Fund, J. C. H., Lau, A. K. H., Granier, C., Brasseur, G., Pozzer, A., Saiz-Lopez, A., Song, Y., and Wang, T.
   journal:  National Science Review
   url: https://doi.org/10.1093/nsr/nwae285
-  display: Link
-  year: 2024
-
-- title: "Evolution of global O3-NOx-VOCs sensitivity before and after the COVID-19 from the ratio of formaldehyde to NO2 from satellites observations"
-  authors: <b>Wang, D.</b>, <b>Pu, D.</b>, De Smedt, I., <b>Zhu, L. *</b>, Yang, X. *, <b>Sun, W.</b>, Xia, H., Song, Z., <b>Li, X.</b>, <b>Li, J.</b>, Zhang, A., Feng, X., <b>Chen, Y.</b>, Yang, X., Fu, T.-M., and Wang, J.
-  journal:  Journal of Environmental Sciences
-  url: https://doi.org/10.1016/j.jes.2024.07.029
   display: Link
   year: 2024
 
