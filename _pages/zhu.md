@@ -25,8 +25,8 @@ Green house gases
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
 
-2025.06– Associate Professor (tenured), Southern University of Science and Technology  
-2019.12–2025.05 Assistant Professor, Southern University of Science and Technology  
+2025.06– Associate Professor (tenured), SUSTech    
+2019.12–2025.05 Assistant Professor, SUSTech    
 2019.08–2019.12 Research Scholar, Harvard-Smithsonian Center for Astrophysics  
 2017.01–2019.07 Postdoc, Harvard University
 
@@ -59,7 +59,7 @@ Green house gases
 
 #### <b>职业经历</b>
 
-2025.06起 南方科技大学 长聘副教授
+2025.06起 南方科技大学 长聘副教授  
 2019.12至2025.05 南方科技大学 助理教授  
 2019.08至2019.12 哈佛-史密松天体物理中心 研究员  
 2017.01至2019.07 哈佛大学 博士后  
