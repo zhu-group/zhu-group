@@ -1,10 +1,26 @@
 ﻿- name: "Bin Bai 白彬"
   info: Research Assistant (2020–2021)
-  now: PhD student, Georgia Institute of Technology, USA
+  now: PhD Student, Georgia Institute of Technology, USA
+
+- name: "Yuyang Chen 陈雨阳"
+  info: PhD Student (2020–2025)
+  now: Science, Technology and Innovation Bureau of Shenzhen Municipality, China
+
+- name: "Weitao Fu 傅玮韬"
+  info: Master Student (2022–2025)
+  now: PhD Student, The Chinese University of Hong Kong, Hong Kong
+
+- name: "Juan Li 李娟"
+  info: PhD Student (2021–2025)
+  now: Postdoc, The Hong Kong University of Science and Technology (Guangzhou), China
 
 - name: "Wenxu Liao 廖雯昫"
   info: Research Assistant (2023–2023)
   now: PhD student, University of Notre Dame, USA
+
+- name: "Huilin Liu 刘慧琳"
+  info: Research Assistant (2024–2025)
+  now: 
 
 - name: "Dongchuan Pu 蒲东川"
   info: PhD Student (2020–2024)
@@ -12,23 +28,27 @@
 
 - name: "Lei Shu 束蕾"
   info: Postdoc (2020–2022)
-  now: Associate professor, Fujian Normal University, China
+  now: Associate Professor, Fujian Normal University, China
 
 - name: "Shuai Sun 孙帅"
   info: Master Student (2021–2023)
-  now: PhD student, Westlake University, China
+  now: PhD Student, Westlake University, China
 
 - name: "Wenfu Sun 孙文夫"
   info: Research Assistant (2020–2021)
-  now: PhD student, The Royal Belgian Institute for Space Aeronomy (BIRA-IASB), Belgium
+  now: PhD Student, The Royal Belgian Institute for Space Aeronomy (BIRA-IASB), Belgium
 
 - name: "Liqian Tan 谭力乾"
   info: Undergraduate Research Assistant (2020–2021)
   now: China Merchants Bank, China
 
 - name: "Dakang Wang 王大康"
+  info: Master Student (2023–2025)
+  now: Associate Professor, Guangzhou University, China
+
+- name: "Zhuoxian Yan 闫卓贤"
   info: Postdoc (2020–2022)
-  now: Associate professor, Guangzhou University, China
+  now: Assistant Engineer, Aerospace Information Research Institute, Chinese Academy of Sciences, China
 
 - name: "Xin Zhang  张馨"
   info: Research Assistant (2021–2022)
@@ -36,4 +56,4 @@
 
 - name: "Xiaoxing Zuo 左小幸"
   info: Master Student (2021–2024)
-  now: PhD student, Royal Netherlands Meteorological Institute (KNMI), The Netherlands
+  now: PhD Student, Royal Netherlands Meteorological Institute (KNMI), The Netherlands
