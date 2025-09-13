@@ -1,8 +1,22 @@
-﻿- title: "Developing the chemistry module for 27 fluorinated greenhouse gases (F-gases): Reactions, emissions, and implementation in GEOS-Chem"
+﻿- title: "Wintertime peroxyacetyl nitrate (PAN) hotspot over China observed from space: Interpretation of CrIS results using updated GEOS-Chem"
+  authors: <b>Zhang, P.</b>, Zhai, S., <b>Liu, S.</b, Bates, K., <b>Fu, W.</b, <b>Li, X.</b, <b>Chen, Y.</b, <b>Wu, X.</b, <b>Li, Y.</b, <b>Li, J.</b, <b>Zhang, X.</b, <b>Zhang, J.</b, <b>Huang, Y.</b, Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b>
+  journal:  submitted
+  url: 
+  display: 
+  year: 2025
+
+- title: "Developing the chemistry module for 27 fluorinated greenhouse gases (F-gases): Reactions, emissions, and implementation in GEOS-Chem"
   authors: <b>Li, Y.</b>, <b>Zhu, L. *</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, Western, L. M., Young, D., Mühle, J., Weiss, R. F., Krummel, P. B., Lunder, C. R., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Fu, W.</b>, <b>Yan, Z.</b>, <b>Zhang, P.</b>, <b>Zhang, X.</b>, <b>Zhang, J.</b>, <b>Wu, X.</b>, Yang, X., Fu, T.-M., Shen, H., Ye, J., and Wang, C.
   journal:  submitted
   url: 
   display: 
+  year: 2025
+
+- title: "Daily seamless dataset of HCHO concentrations: Vertical relationship between surface and column HCHO in China in 2019-2022"
+  authors: Wang, M., Jiang, Z., Chen, X., Han, W., <b>Zhu, L.</b>, He, T.-L., and Shen, Y.
+  journal: Atmospheric Environment
+  url: https://doi.org/10.1016/j.atmosenv.2025.121546
+  display: Link
   year: 2025
 
 - title: "Assessing the Impacts of Aircraft Emissions on Air Quality in a Megacity Using High‐Resolution Flight Tracking Data"
