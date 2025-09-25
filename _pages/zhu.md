@@ -8,7 +8,7 @@ permalink: /zhu/
 
 ### <b>Lei Zhu | 朱雷</b>
 [Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_en.pdf)   
-*Last updated: Jan. 6, 2025*  
+*Last updated: June, 2025*  
 
 <div class="row">
 
