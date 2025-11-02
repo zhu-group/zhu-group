@@ -1,4 +1,11 @@
-﻿- title: "Assessing the Accuracy of Global HFC-134a Satellite Observations from Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE-FTS) via Aircraft, Balloon, and Model Comparisons"
+﻿- title: "Validation of satellite formaldehyde products constrained by aircraft observations over the United States during fire seasons"
+  authors: <b>Sun, S.</b>, Zhang, Y. *, <b>Liu, S.</b>, <b>Shu, L.</b>, De Smedt, I., Hu, L., Permar, W., Richter, D., Fried, A., and <b>Zhu, L. *</b>
+  journal:  submitted
+  url: 
+  display: 
+  year: 2025
+
+- title: "Assessing the Accuracy of Global HFC-134a Satellite Observations from Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE-FTS) via Aircraft, Balloon, and Model Comparisons"
   authors: <b>Li, Y.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Zhang, L.</b>, Montzka, S., Vimont, I., Crotwell, Molly., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Fu, W.</b>, <b>Zhang, P.</b>, <b>Zhang, X.</b>, <b>Wu, X.</b>, <b>Zhang, J.</b>, <b>Huang, Y.</b>, <b>Luan, X.</b>, Shen, H., Ye, J., Wang, C., Yang, X., Fu, T.-M., and <b>Zhu, L. *</b>
   journal:  submitted
   url: 
@@ -10,6 +17,13 @@
   journal:  submitted
   url: 
   display: 
+  year: 2025
+
+- title: "基于卫星遥感的大气污染物和温室气体排放反演"
+  authors: 姜哲, 林金泰, 何泰龙, 江飞, 金建炳, 秦凯, 沈路路, 杨盼盼, 臧增亮, 张霖, 张羽中, 郑博, 钟慧茹, <b>朱雷</b>
+  journal:  气象学报
+  url: http://qxxb.cmsjournal.net/article/doi/10.11676/qxxb2025.20240145
+  display: Link
   year: 2025
 
 - title: "Developing the chemistry module for 27 fluorinated greenhouse gases (F-gases): Reactions, emissions, and implementation in GEOS-Chem"
