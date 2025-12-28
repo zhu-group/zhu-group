@@ -17,10 +17,10 @@ permalink: /zhu/
 #### <b>RESEARCH AREAS</b>  
 
 Atmospheric Chemistry  
-Green House Gases  
 Remote Sensing of Trace Gases  
-Data Assimilation  
+Green House Gases  
 Air Quality  
+Data Assimilation  
 Atmosphere-Land-Ocean Interactions  
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
@@ -51,10 +51,10 @@ Atmosphere-Land-Ocean Interactions
 
 ####  <b>研究领域</b>
 大气化学  
-温室气体  
 痕量气体遥感  
-数据同化  
+温室气体  
 空气质量  
+数据同化  
 大气-地面-海洋交互作用  
 
 #### <b>职业经历</b>
@@ -131,7 +131,7 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>83</b> Ayazpour, Z., González Abad, G., Nowlan, C. R., Sun, K., Kwon, H.-A., Chan Miller, C., Chong, H., Wang, H., Liu, X., Chance, K., O’Sullivan, E., <b>Zhu, L.</b>, Vigouroux, C., De Smedt, I., Stremme, W., Hannigan, J. W., Notholt, J., Sun, X., Palm, M., Petri, C., Strong, K., Röhling, A. N., Mahieu, E., Smale, D., Té, Y., Morino, I., Murata, I., Nagahama, T., Kivi, R., Makarova, M., Jones, N., Sussmann, R., and Zhou, M.: Aura Ozone Monitoring Instrument (OMI) Collection 4 Formaldehyde Products, <u><em>Earth and Space Science</em></u>, 2025. 
 
-<b>82</b> Fu, W., <b>Zhu, L. *</b>, Kwon, H.-A., Park, R. J., Lee, G. T., De Smedt, I., Liu, S., Li, X., Chen, Y., Pu, D., Li, J., Zuo, X., Zhang, P., Li, Y., Yan, Z., Zhang, X., Zhang, J., Wu, X., Shen, H., Ye, J., Wang, C., Fu, T.-M., and Yang, X.: Evaluating GEMS HCHO retrievals with TROPOMI product, Pandora observations, and GEOS-Chem simulations, <u><em>Earth and Space Science</em></u>, 2024. 
+<b>82</b> Fu, W., <b>Zhu, L. *</b>, Kwon, H.-A., Park, R. J., Lee, G. T., De Smedt, I., Liu, S., Li, X., Chen, Y., Pu, D., Li, J., Zuo, X., Zhang, P., Li, Y., Yan, Z., Zhang, X., Zhang, J., Wu, X., Shen, H., Ye, J., Wang, C., Fu, T.-M., and Yang, X.: Evaluating GEMS HCHO retrievals with TROPOMI product, Pandora observations, and GEOS-Chem simulations, <u><em>Earth and Space Science</em></u>, 2025. 
 
 <b>2024</b>
 
