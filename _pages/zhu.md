@@ -17,11 +17,11 @@ permalink: /zhu/
 #### <b>RESEARCH AREAS</b>  
 
 Atmospheric Chemistry  
+Green House Gases  
 Remote Sensing of Trace Gases  
 Data Assimilation  
 Air Quality  
 Atmosphere-Land-Ocean Interactions  
-Green house gases
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
 
@@ -51,11 +51,11 @@ Green house gases
 
 ####  <b>研究领域</b>
 大气化学  
+温室气体  
 痕量气体遥感  
 数据同化  
 空气质量  
 大气-地面-海洋交互作用  
-温室气体
 
 #### <b>职业经历</b>
 
@@ -91,9 +91,49 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>Corresponding author (*) | 通讯作者
 
-<b>2024</b>
+<b>2025</b>
+
+<b>101</b> Li, Y., Li, J., Chen, Y., Zhang, L., Montzka, S., Vimont, I., Crotwell, Molly., Liu, S., Li, X., Fu, W., Zhang, P., Zhang, X., Wu, X., Zhang, J., Huang, Y., Luan, X., Shen, H., Ye, J., Wang, C., Yang, X., Fu, T.-M., and <b>Zhu, L. *</b>: Assessing the Accuracy of Global HFC-134a Satellite Observations from Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE-FTS) via Aircraft, Balloon, and Model Comparisons, <u><em>Environmental Science & Technology</em></u>, 2025. 
+
+<b>100</b> Zhang, P., Zhai, S., Liu, S., Bates, K., Fu, W., Li, X., Chen, Y., Wu, X., Li, Y., Li, J., Zhang, X., Zhang, J., Huang, Y., Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b>: Wintertime Peroxyacetyl Nitrate (PAN) Hotspot over China Observed from Space: Interpretation of CrIS Results Using Updated GEOS-Chem, <u><em>Environmental Science & Technology Letters</em></u>, 2025. 
+
+<b>99</b> 姜哲, 林金泰, 何泰龙, 江飞, 金建炳, 秦凯, 沈路路, 杨盼盼, 臧增亮, 张霖, 张羽中, 郑博, 钟慧茹, <b>朱雷</b>: 基于卫星遥感的大气污染物和温室气体排放反演, <u><em>气象学报</em></u>, 2025. 
+
+<b>98</b> Li, Y., <b>Zhu, L. *</b>, Li, J., Chen, Y., Western, L. M., Young, D., Mühle, J., Weiss, R. F., Krummel, P. B., Lunder, C. R., Liu, S., Li, X., Fu, W., Zhang, P., Zhang, X., Zhang, J., Wu, X., Huang Y., Shen, H., Ye, J., Wang, C., Fu, T.-M., and Yang, X.: Developing the chemistry module for 27 fluorinated greenhouse gases (F-gases): Reactions, emissions, and implementation in GEOS-Chem, <u><em>Atmospheric Environment</em></u>, 2025. 
+
+<b>97</b> Xu, R., Shen, H., Wang, P., Wang, T., Chen, Y., Guo, P., Mai, Z., He, J., Zheng, Z., Zhang, R., Wang, Z., Meng, J., Wang, C., Ye, J., <b>Zhu, L.</b>, Shen, G., Fu, T.-M., Yang, X., Russell, A., G., and Tao, S.: E-Commerce Growth Reduces Primary PM2.5 Emissions but Increases Secondary PM2.5 Precursors in China, <u><em>Environmental Science & Technology</em></u>, 2025. 
+
+<b>96</b> Wang, M., Jiang, Z., Chen, X., Han, W., <b>Zhu, L.</b>, He, T.-L., and Shen, Y.: Daily seamless dataset of HCHO concentrations: Vertical relationship between surface and column HCHO in China in 2019-2022, <u><em>Atmospheric Environment</em></u>, 2025. 
+
+<b>95</b> Lin, C., Han, Y., Cao, Y., Wang, Y., Zhang, R., He, X., Li, G., Zhang, Z., Liang, Z., Zhou, Z., Gu, T., Yun, L., Guo, P., Huang, B., Li, M., <b>Zhu, L.</b>, and Shen, H.: Assessing the Impacts of Aircraft Emissions on Air Quality in a Megacity Using High‐Resolution Flight Tracking Data, <u><em>Journal of Geophysical Research-Atmospheres</em></u>, 2025. 
+
+<b>94</b> Zhai, J., Zhang, Y., Liu, P., Zhang, Y., Zhang, A., Zeng, Y., Cai, B., Zhang, J., Xing, C., Yang, H., Wang, X., Ye, J., Wang, C., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Tao, S., and Yang, X.: Source-dependent optical properties and molecular characteristics of atmospheric brown carbon, <u><em>Atmospheric Chemistry and Physics</em></u>, 2025. 
+
+<b>93</b> Zheng, L., Adalibieke, W., Zhou, F., He, P., Chen, Y., Guo, P., He, J., Zhang, Y., Li, J., Li, W., Gan, Y., Xu, P., Wang, C., Ye, J., <b>Zhu, L.</b>, Shen, G., Fu, T.-M., Yang, X., Zhao, S., Hakami, A., Meng, J., and Shen, H.: Indirect emissions contribute a quarter of air pollution-related health burden of food systems in China, <u><em>Nature Food</em></u>, 2025. 
+
+<b>92</b> Zhang, X., Ye, C., Kim, J., Lee, H., Park, J., Jung, Y., Hong, H., Fu, W., Li, X., Chen, Y., Wu, X., Li, Y., Li, J., Zhang, P., Yan, Z., Zhang, J., Liu, S., and <b>Zhu, L. *</b>: Tropospheric NO2 column over Tibet Plateau according to GEMS: Spatial, seasonal, and diurnal variations, <u><em>Remote Sensing</em></u>, 2025. 
+
+<b>91</b> 李娟, <b>朱雷 *</b>, 陈雨阳, 李亚莉, 杨红龙, 于海波, 陈丽曲: 我国东南部地区HFC-227ea、HFC-245fa以及HFC-365mfc排放估算, <u><em>安全与环境工程</em></u>, 2025. 
+
+<b>90</b> Li, J., Chen, Y., Li, Y., Liu, S., An, M., Yao, B., Western, L. M., Rigby, M., Ganesan, A. L., O’Doherty, S., Sheng, J., Krummel, P. B., Yang, H., Yu, H., Chen, L., Shen, H., Ye, J., Wang, C., Yang, X., Fu, T.-M., and <b>Zhu, L. *</b>: Hydrofluorocarbons (HFCs) in Southern China: High-Frequency Observations and Emission Estimates, <u><em>Environmental Science & Technology Letters</em></u>, 2025. 
+
+<b>89</b> Yuan, W., Zhang, L., Zhao, W., Yang, B., Jiao, X., Zhou, L., Shen, H., Ye, J., <b>Zhu, L.</b>, Fu. T.-M., Yang, X., and Wang, C.: Multiphase Reaction of Ozone with HONO/NO2– on Surfaces: Effects on Indoor HONO and Ozone, <u><em>Environmental Science & Technology</em></u>, 2025. 
+
+<b>88</b> Han, Y., Shen, H., He, X., Mai, Z., Zhang, R., Zheng, Z., Liu, Y., Zhang, X., Li, G., Zhang, Z., Liang, Z., Chen, Y., Xie, Y., Li, M., Shen, G., Wang C., Ye, J., <b>Zhu, L.<b>, Fu, T.-M., and Yang, X.: A Comprehensive Analysis of Interflight Variability in Carbon Dioxide Emissions from Global Aviation, <u><em>Environmental Science & Technology</em></u>, 2025. 
+
+<b>87</b> Chen, Y., Yao, B., An, M., Ding, A., Liu, S., Li, X., Li, Y., O’Doherty, S., Krummel, P. B., Yang, H., Yu, H., Chen, L., Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b>: Emissions of Perfluorinated Greenhouse Gases in Southeastern China Derived From High-Frequency In Situ Observations, <u><em>Geophysical Research Letters</em></u>, 2025. 
+
+<b>86</b> Liu, X., Zhai, S., Li, K., <b>Zhu, L.</b>, Liu, S., Shah, V., Tai, A. P. K., Geng, G., Hou, X., Mamtimin, A., Li, X., and Zhao, T.: Particulate matter (PM) and ozone air quality in Urumqi of Northwest China: seasonality, trends, and sources, <u><em>Atmospheric Environment</em></u>, 2025. 
+
+<b>85</b> Wang, D., Pu, D., De Smedt, I., <b>Zhu, L. *</b>, Yang, X. *, Sun, W., Xia, H., Song, Z., Li, X., Li, J., Zhang, A., Feng, X., Chen, Y., Yang, X., Fu, T.-M., and Wang, J.: Evolution of global O3-NOx-VOCs sensitivity before and after the COVID-19 from the ratio of formaldehyde to NO2 from satellites observations, <u><em>Journal of Environmental Sciences</em></u>, 2025. 
+
+<b>84</b> Li, Y., Fu, T.-M., Yu, J., Zhang, A., Yu, X., Ye, J., <b>Zhu, L.</b>, Shen, H., Wang, C., Yang, X., Tao, S., Chen, Q., Li, Y., Li, L., Chen, H., and Heald, C. L.: Nitrogen dominates global atmospheric organic aerosol absorption, <u><em>Science</em></u>, 2025. 
+
+<b>83</b> Ayazpour, Z., González Abad, G., Nowlan, C. R., Sun, K., Kwon, H.-A., Chan Miller, C., Chong, H., Wang, H., Liu, X., Chance, K., O’Sullivan, E., <b>Zhu, L.</b>, Vigouroux, C., De Smedt, I., Stremme, W., Hannigan, J. W., Notholt, J., Sun, X., Palm, M., Petri, C., Strong, K., Röhling, A. N., Mahieu, E., Smale, D., Té, Y., Morino, I., Murata, I., Nagahama, T., Kivi, R., Makarova, M., Jones, N., Sussmann, R., and Zhou, M.: Aura Ozone Monitoring Instrument (OMI) Collection 4 Formaldehyde Products, <u><em>Earth and Space Science</em></u>, 2025. 
 
 <b>82</b> Fu, W., <b>Zhu, L. *</b>, Kwon, H.-A., Park, R. J., Lee, G. T., De Smedt, I., Liu, S., Li, X., Chen, Y., Pu, D., Li, J., Zuo, X., Zhang, P., Li, Y., Yan, Z., Zhang, X., Zhang, J., Wu, X., Shen, H., Ye, J., Wang, C., Fu, T.-M., and Yang, X.: Evaluating GEMS HCHO retrievals with TROPOMI product, Pandora observations, and GEOS-Chem simulations, <u><em>Earth and Space Science</em></u>, 2024. 
+
+<b>2024</b>
 
 <b>81</b> Fang, L., Jin, J., Segers, A., Li, K., Xia, J., Han, W., Li, B., Lin, H., <b>Zhu, L.</b>, Liu, S., and Liao, H.: Observational operator for fair model calibration with ground NO2 measurements, <u><em>Geoscientific Model Development</em></u>, 2024. 
 
@@ -274,6 +314,8 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 <div class="col-sm-12 clearfix">
 
 #### <b>SELECTED INVITED SEMINARS | 部分受邀讲座</b>
+
+Satellite Remote Sensing of Ozone and Its Precursors: From Low Earth Orbit (LEO) to Geostationary Orbit (GEO), <i>CNCC & EOAS Joint Seminar</i>, <u>April 18, 2025</u>, Guangzhou, China.
 
 Observing downwind structures of urban HCHO and CHOCHO plumes with TROPOMI and GEMS: Implications to non-methane volatile organic compound emissions, <i>TEMPO/GEMS Joint Science Team Workshop</i>, <u>August 30, 2024</u>, Kailua-Kona, Hawaii, USA.
 
