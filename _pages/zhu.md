@@ -119,7 +119,7 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>89</b> Yuan, W., Zhang, L., Zhao, W., Yang, B., Jiao, X., Zhou, L., Shen, H., Ye, J., <b>Zhu, L.</b>, Fu. T.-M., Yang, X., and Wang, C.: Multiphase Reaction of Ozone with HONO/NO2– on Surfaces: Effects on Indoor HONO and Ozone, <u><em>Environmental Science & Technology</em></u>, 2025. 
 
-<b>88</b> Han, Y., Shen, H., He, X., Mai, Z., Zhang, R., Zheng, Z., Liu, Y., Zhang, X., Li, G., Zhang, Z., Liang, Z., Chen, Y., Xie, Y., Li, M., Shen, G., Wang C., Ye, J., <b>Zhu, L.<b>, Fu, T.-M., and Yang, X.: A Comprehensive Analysis of Interflight Variability in Carbon Dioxide Emissions from Global Aviation, <u><em>Environmental Science & Technology</em></u>, 2025. 
+<b>88</b> Han, Y., Shen, H., He, X., Mai, Z., Zhang, R., Zheng, Z., Liu, Y., Zhang, X., Li, G., Zhang, Z., Liang, Z., Chen, Y., Xie, Y., Li, M., Shen, G., Wang C., Ye, J., <b>Zhu, L.</b>, Fu, T.-M., and Yang, X.: A Comprehensive Analysis of Interflight Variability in Carbon Dioxide Emissions from Global Aviation, <u><em>Environmental Science & Technology</em></u>, 2025. 
 
 <b>87</b> Chen, Y., Yao, B., An, M., Ding, A., Liu, S., Li, X., Li, Y., O’Doherty, S., Krummel, P. B., Yang, H., Yu, H., Chen, L., Yang, X., Fu, T.-M., Shen, H., Ye, J., Wang, C., and <b>Zhu, L. *</b>: Emissions of Perfluorinated Greenhouse Gases in Southeastern China Derived From High-Frequency In Situ Observations, <u><em>Geophysical Research Letters</em></u>, 2025. 
 
