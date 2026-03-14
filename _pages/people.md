@@ -94,7 +94,7 @@ permalink: /people/
 
 {% for alumni in site.data.alumni %}
 
-  {{ alumni.name }}, {{ alumni.info }}, Now: {{ alumni.now }}.
+  {{ alumni.name }}, {{ alumni.info }}. After SUSTech: {{ alumni.now }}.
   
 {% endfor %}
 
