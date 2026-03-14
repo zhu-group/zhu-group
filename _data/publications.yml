@@ -12,6 +12,13 @@
   display: 
   year: 2026
 
+- title: "Wind estimation based on flight dynamics of unmanned aerial vehicle: influencing variables and its environmental application"
+  authors: Chen, D., Su, W., Jiang, S., Yang, H., Zhang, C., Jiang, S., Chang, D., Liang, Y., Wang, H., Yang, X., Fu, T.-M., Zeng, Z., <b>Zhu, L.</b>, Shen, H., Wang, C., Ye, J.
+  journal:  Atmospheric Chemistry and Physics 
+  url:  https://doi.org/10.5194/acp-26-3607-2026
+  display: Link
+  year: 2026
+
 - title: "Global OMI HCHO Level-3 oversampling dataset: high spatial resolution and lightweight uncertainty"
   authors: Xia, H., Wang, D., Yang, X., <b>Li, X.</b>, <b>Zhu, L.</b>, Lu, T., Song, Z., Mo, Y., Yan, C., <b>Pu, D.</b>, <b>Zuo, X.</b>, <b>Sun, W.</b>, Wang, J., and Gu, X. 
   journal:  Scientific Data
