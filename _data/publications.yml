@@ -1,4 +1,11 @@
-﻿- title: "Anthropogenic nitrogen impacts on global PM2.5-O3 co-pollution health burden"
+﻿- title: "Quantifying nitrous acid (HONO) production and its impact on oxidation capacity over the Tibetan Plateau: Insights from an observation-constrained box model"
+  authors: <b>Zhang, X.</b>, Wang, J., Ye, C., <b>Li, X.</b>, <b>Wu, X.</b>, Yuan, W., <b>Luan, X.</b>, <b>Li, Y.</b>, <b>Zhang, P.</b>, <b>Zhang, J.</b>, <b>Huang, Y.</b>, <b>Zhang, L.</b>, <b>Li, J.</b>, <b>Liu, S., Wang, C., and <b>Zhu, L.*</b>
+  journal: Submitted
+  url: 
+  display: 
+  year: 2026
+
+- title: "Anthropogenic nitrogen impacts on global PM2.5-O3 co-pollution health burden"
   authors: <b>Liu, S.</b>, <b>Li, X.</b>, Shu, L., Fu, T.-M., Yang, X., <b>Zhu, L. *</b>, and Wei, J.
   journal: Submitted
   url: 
@@ -12,8 +19,15 @@
   display: 
   year: 2026
 
+- title: "Total column water vapor retrievals from the Geostationary Environment Monitoring Spectrometer (GEMS)"
+  authors: Cha, H., Chong, H., Kim, J., González Abad, G., <b>Zhu, L.</b>, Park, S. S., Ahn, D., Loyola, D., Lee. W.-J., and Ahn, M.-H.
+  journal:  Remote Sensing of Environment
+  url:  https://doi.org/10.1016/j.rse.2026.115401
+  display: Link
+  year: 2026
+
 - title: "Wind estimation based on flight dynamics of unmanned aerial vehicle: influencing variables and its environmental application"
-  authors: Chen, D., Su, W., Jiang, S., Yang, H., Zhang, C., Jiang, S., Chang, D., Liang, Y., Wang, H., Yang, X., Fu, T.-M., Zeng, Z., <b>Zhu, L.</b>, Shen, H., Wang, C., Ye, J.
+  authors: Chen, D., Su, W., Jiang, S., Yang, H., Zhang, C., Jiang, S., Chang, D., Liang, Y., Wang, H., Yang, X., Fu, T.-M., Zeng, Z., <b>Zhu, L.</b>, Shen, H., Wang, C., and Ye, J.
   journal:  Atmospheric Chemistry and Physics 
   url:  https://doi.org/10.5194/acp-26-3607-2026
   display: Link
