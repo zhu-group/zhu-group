@@ -154,6 +154,19 @@
   education5:
   statement:
 
+- name: "Yifan Zhao | 赵一凡"
+  photo: Yifan_Zhao.jpg
+  group_member: 1
+  info: PhD Student (2026.09–) 
+  email: 12631531@mail.sustech.edu.cn
+  number_educ: 2
+  education1: 2020-2023, MS, Southwest University
+  education2: 2018-2022, BS, Southwest University
+  education3: 
+  education4:
+  education5:
+  statement:
+
 - name: "This could be you !"
   photo: wny.jpg
   group_member: 0  
