@@ -24,6 +24,19 @@
   education5:
   statement:
 
+- name: "Haodong Li | 李昊东"
+  photo: Haodong_Li.jpg
+  group_member: 1
+  info: Master Student (2027.07–)
+  email: 18163554395@163.com
+  number_educ: 1
+  education1: 2023-2027, BS, Wuhan University 
+  education2: 
+  education3:
+  education4:
+  education5:
+  statement:
+
 - name: "Jianghai Li | 李江海"
   photo: Jianghai_Li.jpg
   group_member: 1
@@ -57,6 +70,19 @@
   email: 12311203@mail.sustech.edu.cn
   number_educ: 0
   education1: 
+  education2: 
+  education3:
+  education4:
+  education5:
+  statement:
+
+- name: "Yongru Mo | 莫咏茹"
+  photo: Yongru_Mo.jpg
+  group_member: 1
+  info: Master Student (2027.07–)
+  email: 13432979096@163.com
+  number_educ: 0
+  education1: 2023-2027, BS, Guangzhou University
   education2: 
   education3:
   education4:
